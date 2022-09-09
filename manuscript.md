@@ -9,6 +9,7 @@ date-meta: '2022-09-09'
 author-meta:
 - James Martin
 - Matthew J. Grainger
+- Victoria Nolan
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -35,15 +36,19 @@ header-includes: |-
   <meta name="citation_author_institution" content="Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway" />
   <meta name="citation_author_orcid" content="0000-0001-8426-6495" />
   <meta name="twitter:creator" content="@Ed_pheasant" />
+  <meta name="citation_author" content="Victoria Nolan" />
+  <meta name="citation_author_institution" content="Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA" />
+  <meta name="citation_author_orcid" content="0000-0002-6069-963X" />
+  <meta name="twitter:creator" content="@victoria_nolan1" />
   <link rel="canonical" href="https://DrMattG.github.io/TechBk1/" />
   <meta property="og:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta property="twitter:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/4ccc8d9caa263beb4dab10741bf909b2dfdc7711/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/4ccc8d9caa263beb4dab10741bf909b2dfdc7711/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/4ccc8d9caa263beb4dab10741bf909b2dfdc7711/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/))
+([permalink](https://DrMattG.github.io/TechBk1/v/4ccc8d9caa263beb4dab10741bf909b2dfdc7711/))
 was automatically generated
-from [DrMattG/TechBk1@1d917c3](https://github.com/DrMattG/TechBk1/tree/1d917c3a037361673ccbd028ece5bb5f5dc53df0)
+from [DrMattG/TechBk1@4ccc8d9](https://github.com/DrMattG/TechBk1/tree/4ccc8d9caa263beb4dab10741bf909b2dfdc7711)
 on September 9, 2022.
 </em></small>
 
@@ -97,6 +102,18 @@ on September 9, 2022.
     [Ed_pheasant](https://twitter.com/Ed_pheasant)<br>
   <small>
      Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
+  </small>
+
++ **Victoria Nolan**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-6069-963X](https://orcid.org/0000-0002-6069-963X)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [victorianolan8](https://github.com/victorianolan8)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [victoria_nolan1](https://twitter.com/victoria_nolan1)<br>
+  <small>
+     Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   </small>
 
 
