@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/))
+([permalink](https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/))
 was automatically generated
-from [DrMattG/TechBk1@d9ef89f](https://github.com/DrMattG/TechBk1/tree/d9ef89fd102d2ac6d235c1066df1565c0a930ee9)
+from [DrMattG/TechBk1@a87de49](https://github.com/DrMattG/TechBk1/tree/a87de4995b085044d2f421ae8fba80d763396859)
 on September 9, 2022.
 </em></small>
 
@@ -108,10 +108,17 @@ Jane Roe \<jane.roe@whatever.edu\>.
 :::
 
 
-## Abstract {.page_break_before}
+## Introduction
 
+# Open Science
 
+# Basics of Management and Decision Science
 
+# Experimental design
+
+# Sampling
+
+# Publication Process
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
