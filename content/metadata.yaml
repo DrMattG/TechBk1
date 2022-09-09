@@ -1,9 +1,9 @@
 ---
-title: "Manuscript Title"
+title: "Chapter 1: Management, Research and Experimental Design"
 keywords:
-  - markdown
+  - wildlife
   - publishing
-  - manubot
+  - open science
 lang: en-US
 authors:
   - github: johndoe
@@ -14,14 +14,12 @@ authors:
     email: john.doe@something.com
     affiliations:
       - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+  - github: DrMattG
+    name: Matthew J. Grainger
+    initials: MJG
+    orcid: 0000-0001-8426-6495
+    email: matthew.grainger@nina.no
+    twitter: Ed_pheasant
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
+  
