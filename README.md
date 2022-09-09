@@ -9,7 +9,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository contains text for the Wildlife Techniques Manual. 
+This repository contains text for the Wildlife Techniques Manual.
+
+Whose idea was this?
 
 ## Manubot
 
