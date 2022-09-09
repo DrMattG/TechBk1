@@ -7,7 +7,7 @@ keywords:
 lang: en-US
 date-meta: '2022-09-09'
 author-meta:
-- John Doe
+- James Martin
 - Matthew J. Grainger
 header-includes: |-
   <!--
@@ -27,10 +27,10 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="James Martin" />
+  <meta name="citation_author_institution" content="Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA" />
+  <meta name="citation_author_orcid" content="0000-0001-8937-2262" />
+  <meta name="twitter:creator" content="@gamebirddoc" />
   <meta name="citation_author" content="Matthew J. Grainger" />
   <meta name="citation_author_institution" content="Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway" />
   <meta name="citation_author_orcid" content="0000-0001-8426-6495" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/0d472c45455892b8c6eab895f2af3ecc4ea05bf0/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/0d472c45455892b8c6eab895f2af3ecc4ea05bf0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/0d472c45455892b8c6eab895f2af3ecc4ea05bf0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/0d472c45455892b8c6eab895f2af3ecc4ea05bf0/))
+([permalink](https://DrMattG.github.io/TechBk1/v/1d917c3a037361673ccbd028ece5bb5f5dc53df0/))
 was automatically generated
-from [DrMattG/TechBk1@0d472c4](https://github.com/DrMattG/TechBk1/tree/0d472c45455892b8c6eab895f2af3ecc4ea05bf0)
+from [DrMattG/TechBk1@1d917c3](https://github.com/DrMattG/TechBk1/tree/1d917c3a037361673ccbd028ece5bb5f5dc53df0)
 on September 9, 2022.
 </em></small>
 
@@ -75,16 +75,16 @@ on September 9, 2022.
 
 
 
-+ **John Doe**
++ **James Martin**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-8937-2262](https://orcid.org/0000-0001-8937-2262)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [quaildoc](https://github.com/quaildoc)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [gamebirddoc](https://twitter.com/gamebirddoc)<br>
   <small>
-     Department of Something, University of Whatever
+     Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   </small>
 
 + **Matthew J. Grainger**
