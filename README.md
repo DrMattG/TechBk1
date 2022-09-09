@@ -9,7 +9,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository contains text for 
+This repository contains text for the Wildlife Techniques Manual. 
 
 ## Manubot
 
