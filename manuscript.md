@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/fcfd263f364273851aa49aa354c27ce41604647c/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/fcfd263f364273851aa49aa354c27ce41604647c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/fcfd263f364273851aa49aa354c27ce41604647c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/fcfd263f364273851aa49aa354c27ce41604647c/))
+([permalink](https://DrMattG.github.io/TechBk1/v/d9ef89fd102d2ac6d235c1066df1565c0a930ee9/))
 was automatically generated
-from [DrMattG/TechBk1@fcfd263](https://github.com/DrMattG/TechBk1/tree/fcfd263f364273851aa49aa354c27ce41604647c)
+from [DrMattG/TechBk1@d9ef89f](https://github.com/DrMattG/TechBk1/tree/d9ef89fd102d2ac6d235c1066df1565c0a930ee9)
 on September 9, 2022.
 </em></small>
 
