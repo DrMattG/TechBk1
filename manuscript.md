@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c8de2d19fe52551f32a39c92affa8fceb50a89ed/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c8de2d19fe52551f32a39c92affa8fceb50a89ed/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c8de2d19fe52551f32a39c92affa8fceb50a89ed/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/a87de4995b085044d2f421ae8fba80d763396859/))
+([permalink](https://DrMattG.github.io/TechBk1/v/c8de2d19fe52551f32a39c92affa8fceb50a89ed/))
 was automatically generated
-from [DrMattG/TechBk1@a87de49](https://github.com/DrMattG/TechBk1/tree/a87de4995b085044d2f421ae8fba80d763396859)
+from [DrMattG/TechBk1@c8de2d1](https://github.com/DrMattG/TechBk1/tree/c8de2d19fe52551f32a39c92affa8fceb50a89ed)
 on September 9, 2022.
 </em></small>
 
@@ -108,17 +108,135 @@ Jane Roe \<jane.roe@whatever.edu\>.
 :::
 
 
-## Introduction
+# Introduction
 
-# Open Science
+<!-- Leader: James A. Martin -->
 
-# Basics of Management and Decision Science
+## What is wildlife science and management? 
 
-# Experimental design
+## Seeking truth 
 
-# Sampling
+## Uncertainty 
 
-# Publication Process
+## Environmental variation 
+
+## Linguistic uncertainty 
+
+## Partial observability 
+
+## Partial controllability 
+
+## Structural uncertainty 
+
+
+# Opening the Gates of Management and Science 
+
+<!-- Leader: Chloé Nater; co-leaders: Matt Grainger, and Erlend Nilsen -->
+
+## Openness to diversity of knowledge 
+
+## Open engagement of social actors 
+
+## Open data 
+
+## Open source software 
+
+## Open hardware 
+
+## Open evaluation 
+
+## Open science infrastructures 
+
+## Open educational resources 
+
+# Basics of Management/Decision Science
+
+<!-- Leader: James A. Martin; co-leaders: Erlend Nilsen, and Matt Grainger -->
+
+## Value of Information 
+
+## Evidence 
+
+## PrOACT 
+
+## Management Strategy Evaluation 
+
+## Adaptive Resource Management 
+
+# Causation and Inference 
+
+<!--  Leader: Erlend Nilsen; co-leaders: Chloé Nater and Matt Grainger, and James Martin -->
+
+## Asking the right questions in the right way
+
+### Estimation questions 
+
+### Hypothesis driven research 
+
+### Exploratory research 
+
+## Causation and correlation 
+
+### Sufficient causation 
+
+### Necessary causation 
+
+## Manipulative Experiments 
+
+## Observational Studies 
+
+### Directed Acyclic Graphs (DAGs) 
+
+### Confounding variables 
+
+### Mediator and moderating variables 
+
+
+# Basics of Robust Experimental Design 
+
+<!-- Leader: Will Lewis; co-leaders: James Martin -->
+
+## Repetition 
+
+## Replication 
+
+## Randomization 
+
+## Controls 
+
+## Blocking 
+
+## Response variables (i.e., performance measures in a decision context) 
+
+# Basics of Sampling 
+
+<!-- Leader: Sprih Harsh; co-leaders: Victoria Nolan -->
+
+## Probability vs. Non-probability sampling 
+
+## Defining the population, sampling frame, sampling unit, etc. 
+
+## Simple random sampling 
+
+## Stratified random sampling 
+
+## Systematic sampling 
+
+# The Publication and Peer Review Process 
+
+<!-- Leader: Victoria Nolan; co-leaders: Sprih Harsh --> 
+
+## Determining coauthorship 
+
+## Choosing the best outlet 
+
+## Who should review your manuscript? 
+
+## How to constructively provide feedback as a reviewer? 
+
+## Responding to reviews 
+
+## Marketing your manuscript after acceptance 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.

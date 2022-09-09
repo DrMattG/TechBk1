@@ -1,3 +1,8 @@
+content/01.introduction.md:15:observability
+content/01.introduction.md:17:controllability
+content/03.Basics_Management_Decision_Science.md:9:PrOACT
+content/04.Causation_&_Inference.md:23:Acyclic
+content/07.Publication_Process.md:5:coauthorship
 content/12.delete-me.md:44:adipiscing
 content/12.delete-me.md:44:aliqua
 content/12.delete-me.md:44:amet
