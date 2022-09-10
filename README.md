@@ -11,8 +11,6 @@
 
 This repository contains text for the Wildlife Techniques Manual.
 
- Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution
-
 ### Subject: Wildlife Techniques Manual Chapter 1 
 
 ## Manuscript description
