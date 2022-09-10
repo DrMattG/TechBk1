@@ -11,70 +11,42 @@
 
 This repository contains text for the Wildlife Techniques Manual.
 
-Whose idea was this?
+ Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution
 
-## Manubot
+### Subject: Wildlife Techniques Manual Chapter 1 
 
-<!-- usage note: do not edit this section -->
+## Manuscript description
 
-Manubot is a system for writing scholarly manuscripts via GitHub.
-Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
-An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
-The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
-See [`USAGE.md`](USAGE.md) for documentation how to write a manuscript.
+<!-- usage note: edit this section. -->
 
-Please open [an issue](https://git.io/fhQHM) for questions related to Manubot usage, bug reports, or general inquiries.
+Chapter 1 of the next edition of the Wildlife Techniques Manual will include issues around open and reproducible science. Given the theme we have decided to write the Chapter using a publically assessable and open-source platform. 
+
+## Important links and dates
+
+**Links**
+
+**Project deadlines**
 
 ### Repository directories & files
 
-The directories are as follows:
-
-+ [`content`](content) contains the manuscript source, which includes markdown files as well as inputs for citations and references.
-  See [`USAGE.md`](USAGE.md) for more information.
-+ [`output`](output) contains the outputs (generated files) from Manubot including the resulting manuscripts.
-  You should not edit these files manually, because they will get overwritten.
+The directories and main files are as follows:
++ [`/` (`main` root)](https://github.com/DrMattG/TechBk1) this directory contains this document `README.md`, which helps users with the general information about this repository and our project.
++ [`CONTRIBUTING.md`](CONTRIBUTING.md) contains procedures and directions for prospective authors to contribute to this manuscript.
++ [`USAGE.md`](USAGE.md) contains a getting started with Git guidelines, information on formatting text, citing references, adding figures and tables, and other manuscript editing.
++ [`content`](content) contains the manuscript source, which includes markdown files as well as inputs for citations and references and figures.
++ [`R`](R) contains R scripts and RMarkdown documents used to generate figures and tables.
++ [`data`](data) contains files with raw data used in generating some figures and tables.
++ [`output`](output) (and the `output` and `gh-pages` branches) contains the outputs (generated files) from Manubot including the resulting manuscript files (in `HTML`, `PDF`, and other formats).
+  You should not edit these files manually, because they will be overwritten by the Manubot.
 + [`webpage`](webpage) is a directory meant to be rendered as a static webpage for viewing the HTML manuscript.
 + [`build`](build) contains commands and tools for building the manuscript.
 + [`ci`](ci) contains files necessary for deployment via continuous integration.
-
-### Local execution
-
-The easiest way to run Manubot is to use [continuous integration](#continuous-integration) to rebuild the manuscript when the content changes.
-If you want to build a Manubot manuscript locally, install the [conda](https://conda.io) environment as described in [`build`](build).
-Then, you can build the manuscript on POSIX systems by running the following commands from this root directory.
-
-```sh
-# Activate the manubot conda environment (assumes conda version >= 4.4)
-conda activate manubot
-
-# Build the manuscript, saving outputs to the output directory
-bash build/build.sh
-
-# At this point, the HTML & PDF outputs will have been created. The remaining
-# commands are for serving the webpage to view the HTML manuscript locally.
-# This is required to view local images in the HTML output.
-
-# Configure the webpage directory
-manubot webpage
-
-# You can now open the manuscript webpage/index.html in a web browser.
-# Alternatively, open a local webserver at http://localhost:8000/ with the
-# following commands.
-cd webpage
-python -m http.server
-```
-
-Sometimes it's helpful to monitor the content directory and automatically rebuild the manuscript when a change is detected.
-The following command, while running, will trigger both the `build.sh` script and `manubot webpage` command upon content changes:
-
-```sh
-bash build/autobuild.sh
-```
++ [`LICENSE.md`](LICENSE.md) and [`LICENSE-CC0.md`](LICENSE-CC0.md) contain the licenses associated with Manubot and with the content we are developing in this project. Please see the "License" section below.
 
 ### Continuous Integration
 
 Whenever a pull request is opened, CI (continuous integration) will test whether the changes break the build process to generate a formatted manuscript.
-The build process aims to detect common errors, such as invalid citations.
+The build process aims to detect common errors, such as invalid citations. 
 If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
 
 When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/DrMattG/TechBk1/tree/gh-pages) and [`output`](https://github.com/DrMattG/TechBk1/tree/output) branches.
@@ -84,6 +56,8 @@ The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the
 + **PDF manuscript** at https://DrMattG.github.io/TechBk1/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
+
+**NOTE**: Currently the CI build process does not run and render R Markdown documents.  For full reproducibility, files in `/R/` need to be 'knit' manually to generate some files needed to build the complete manuscript.
 
 ## License
 
@@ -96,7 +70,8 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/DrMattG/TechBk1.
+
+Please attribute by TODO 
 
 Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
@@ -116,4 +91,15 @@ All other files are only available under CC BY 4.0, including:
 + `*.pdf`
 + `*.docx`
 
-Please open [an issue](https://github.com/DrMattG/TechBk1/issues) for any question related to licensing.
+
+## About Manubot
+
+<!-- usage note: do not edit this section -->
+
+Manubot is a system for writing scholarly manuscripts via GitHub.
+Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
+An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
+The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
+See [`USAGE.md`](USAGE.md) for documentation how to write a manuscript.
+
+Please open [an issue](https://git.io/fhQHM) for questions related to Manubot usage, bug reports, or general inquiries.
