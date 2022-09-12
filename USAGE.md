@@ -1,3 +1,93 @@
+# Getting started
+
+## Git, committing changes and making pull requests
+
+Git is a tool that allows one to track changes made to documents over time. In GitHub, Git provides us with the power of tracking the contribution of different users and collaborate in and manage how modifications should be merged and incorporated to the main project.
+
+## Fundamentals
+
+## Git vocabulary
+
+- [Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories). A repository is usually used to organize a single project.  
+
+- [Branches](https://docs.github.com/en/get-started/quickstart/hello-world#creating-a-branch). Each repository contains one or several branches, which allows one to have different versions of a repository at one time. Our default branch for the `chapter` repository is the `main` one. There are also the `gh-pages` and `output`, which contain the `HTML` and `PDF` versions that are frequently created by the Manubot. You will also see other branches that correspond to the working versions of other contributors. These personal branches can be merged to the `main` branch, so that their edits are passed to the `main` manuscript. Once in a while, branches that have been merged and are no longer modified will be safely deleted (to keep things tidy!). 
+
+- [Making and committing changes](https://docs.github.com/en/get-started/quickstart/hello-world#making-and-committing-changes). Change to files are arbitrarily grouped together and associated to a message through [**commits**](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits). 
+
+   - For instance, once you add or change a sentence of the manuscript, you can commit them and add a message `Added the discussion about X with its citation.`. 
+   
+   - Each commit has a unique identifier (called a SHA or hash) and both the commit and the commit message allow contributors to identify who made the changes, when they were made, and which were the specific changes. 
+   
+   - When making a commit, you must include a commit message that briefly describes the changes. 
+   
+   - In certain circumstances, commits are the reference for the deletion or reversion of commits that are no longer necessary.
+   
+   - For commits to be passed to the online repository, they must be **pushed**. Commits from other contributors that were pushed to the online repository can come to your local versions (either in your computer or in your Github profile) through **pull**s. Good practice is to always **pull** before you **push**.
+
+- [Forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository. You can fork a repository to your Github profile, so you can keep fix merge conflicts, add or remove files, and push larger commits. **Forks** are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. One of the main ways to provide changes to this chapter, is by:
+
+    1. Forking this repository;
+    
+    2. Regularly committing changes to the files and pushing them to your local version of this repository; and,
+    
+    3. Submitting a pull request to the `main` repository, so that others can review, merge and incorporate your changes.
+    
+    - You must always keep your fork up-to-date with the `main` repository. You can do this by accessing your version of this repository in your Github profile and [fetching upstream](). See the example below:
+    
+    ![image](https://user-images.githubusercontent.com/8599229/145310697-f335c381-c57a-458e-94e3-14e098eaa1b9.png)
+
+- [Cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) a repository. **Cloning** a repository is similar to forking, with the main difference being that the copy of the repository is in your local computer, instead of your Github profile. When you clone a repository, you copy the repository from GitHub.com to your local machine. You can push your changes to the remote repository on GitHub.com, or pull other people's changes from GitHub.com.
+
+     - You can [clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) by following [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository);
+     
+     - There are tools that can help you track changes with cloned repositories from your computer. You are free to choose whichever you prefer (*e.g.*, RStudio, Atom, Visual Basic). 
+     
+     - You must always keep your cloned repository up-to-date with the online version. Do this by *fetching* and *pulling from the origin*, as below:
+     
+     ![image](https://user-images.githubusercontent.com/8599229/145312669-de1a1713-5bd1-4cd8-bdc6-426a0f862320.png)
+     
+     After clicking *Fetch origin*, it will show how many commits you must *pull from the origin*.
+     ![image](https://user-images.githubusercontent.com/8599229/145314441-fa18d587-121c-4357-9968-11bdc33e9475.png)
+     
+
+- [Making a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). Pull requests let you tell others about changes you have pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the `main` branch. This section will deserve its own topic. See more below!
+
+## Pull requests
+
+As mentioned above, changes to the content of the manuscript and to this repository require you to:
+1. Fork or clone this repository;
+2. Regularly commit changes to the files and push these commits to your local version of this repository; and,
+3. Submit a pull request to the `main` repository, so that others can review, merge and incorporate your changes to the `main` version of the chapter.
+
+### Step-by-step guide on creating pull requests
+
+0. Create your local branch and select it as your main working environment.
+
+1. Commit your changes, with a relevant *Commit message* and with a *Description* explaining the changes happening in that commit (e.g., whether they solve an issue or something):
+
+![image](https://user-images.githubusercontent.com/8599229/145317090-061430d6-487a-4ed0-8e54-740f6a6fc64a.png)
+
+2. Push your commits to your branch:
+
+![image](https://user-images.githubusercontent.com/8599229/145317405-4383ba48-e8ef-4989-b581-514ab5e91d90.png)
+
+3. Once you are done with the changes you intended to do, create a pull request:
+   1. Click on the **Pull request** button:
+   ![image](https://user-images.githubusercontent.com/8599229/145317527-77d531b2-6d33-49d3-b37b-dde648716280.png)
+
+   2. Create your pull request. Do not forget to briefly explain your changes, which will be reviewed by other contributors. You may also assign specific reviewers, if you would like to: 
+   ![image](https://user-images.githubusercontent.com/8599229/145317852-13ce9a14-4957-47b9-b692-3aef2b417147.png)
+
+   3. Once created, Manubot will evaluate if the pull request passes all error checks:
+   ![image](https://user-images.githubusercontent.com/8599229/145318022-a584a00a-19be-4731-9fb4-14782b41fdf6.png)
+
+   A green checkmark (tick) confirms that everything has worked fine.
+   ![image](https://user-images.githubusercontent.com/8599229/145318310-9c53fe5f-d0b3-4e39-8e71-93bd9faa73ad.png)
+
+   4. Your pull request will be reviewed by one other contributor, who will discuss, provide or request new changes, or directly merge and close your pull request with the `main` repository. Below, another contributor evaluated the pull request and requested corrections to be made. The assignee for the pull request then provided the requested changes by pushing commits to the same branch that concerns the pull request.
+   
+   ![image](https://user-images.githubusercontent.com/8599229/145326141-1b013508-d1b7-4cba-8440-e5755059b210.png)
+
 # Manubot usage guidelines
 
 This repository uses [Manubot](https://manubot.org) to automatically produce a manuscript from the source in the [`content`](content) directory.
@@ -136,14 +226,14 @@ For example, the following citations all refer to the same study, but will be tr
 
 The citation key syntax is described in the [Pandoc manual](https://pandoc.org/MANUAL.html#citation-syntax):
 
-> Unless a citation key start with a letter, digit, or `_`,
+> Unless a citation key start with a letter, digit, or `_`,
 > and contains only alphanumerics and internal punctuation characters (`:.#$%&-+?<>~/`),
 > it must be surrounded by curly braces,
 > which are not considered part of the key.
-> In `@Foo_bar.baz.`, the key is `Foo_bar.baz`.
-> The final period is not *internal* punctuation,
+> In `@Foo_bar.baz.`, the key is `Foo_bar.baz`.
+> The final period is not *internal* punctuation,
 > so it is not included in the key.
-> In `@{Foo_bar.baz.}`, the key is `Foo_bar.baz.`, including the final period.
+> In `@{Foo_bar.baz.}`, the key is `Foo_bar.baz.`, including the final period.
 > The curly braces are recommended if you use URLs as keys:
 > `[@{https://example.com/bib?name=foobar&date=2000}, p. 33]`.
 
@@ -260,7 +350,6 @@ initials: DSH  # optional
 orcid: 0000-0002-3012-7446  # mandatory
 twitter: dhimmel  # optional
 email: daniel.himmelstein@gmail.com  # suggested
-corresponding: true  # optional, if set to true displays author's email for correspondence
 affiliations:  # as a list, strongly suggested
   - Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania
   - Department of Biological & Medical Informatics, University of California, San Francisco
@@ -320,6 +409,9 @@ When the `SPELLCHECK` environment variable is `true`, the pandoc [spellcheck fil
 Potential spelling errors will be printed in the continuous integration log along with the files and line numbers in which they appeared.
 Words in `build/assets/custom-dictionary.txt` are ignored during spellchecking.
 Spellchecking is currently only supported for English language manuscripts.
+
+
+
 
 ## Manubot feedback
 
