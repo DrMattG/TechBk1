@@ -1,5 +1,4 @@
 # Chapter 1: Management, Research and Experimental Design 
-<!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://DrMattG.github.io/TechBk1/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://DrMattG.github.io/TechBk1/manuscript.pdf)
@@ -17,13 +16,23 @@ This repository contains text for the Wildlife Techniques Manual.
 
 <!-- usage note: edit this section. -->
 
-Chapter 1 of the next edition of the Wildlife Techniques Manual will include issues around open and reproducible science. Given the theme we have decided to write the Chapter using a publically assessable and open-source platform. 
+Chapter 1 of the next edition of the Wildlife Techniques Manual will include issues around open and reproducible science. Given the theme we have decided to write the Chapter using a publicly assessable and open-source platform. 
 
 ## Important links and dates
 
 **Links**
 
+
 **Project deadlines**
+
+Each week: Submit a pull request once a week. 
+
+September 24th : My initial outline was a placeholder more than a template. I would like for you to update the outline for your section and write a sentence or two descriptions for each subsection. This will let the rest of know what you plan to cover. Each section leader should work with your coauthors and me on content decisions. If deemed necessary, we can have a group call at this point. 
+
+November 1: ~Half draft of chapter. 
+
+December 1: Full draft of chapter.
+
 
 ### Repository directories & files
 
