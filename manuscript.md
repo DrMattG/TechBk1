@@ -10,6 +10,7 @@ author-meta:
 - James Martin
 - Matthew J. Grainger
 - Victoria Nolan
+- Sprih Harsh
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -40,15 +41,18 @@ header-includes: |-
   <meta name="citation_author_institution" content="Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA" />
   <meta name="citation_author_orcid" content="0000-0002-6069-963X" />
   <meta name="twitter:creator" content="@victoria_nolan1" />
+  <meta name="citation_author" content="Sprih Harsh" />
+  <meta name="citation_author_institution" content="Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA" />
+  <meta name="citation_author_orcid" content="0000-0002-6462-7668" />
   <link rel="canonical" href="https://DrMattG.github.io/TechBk1/" />
   <meta property="og:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta property="twitter:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/d3bf401a95ee19a454eace380c4458890c7aabc0/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d3bf401a95ee19a454eace380c4458890c7aabc0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/d3bf401a95ee19a454eace380c4458890c7aabc0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,9 +74,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/))
+([permalink](https://DrMattG.github.io/TechBk1/v/d3bf401a95ee19a454eace380c4458890c7aabc0/))
 was automatically generated
-from [DrMattG/TechBk1@1ff7ada](https://github.com/DrMattG/TechBk1/tree/1ff7ada5c05288b44a862a3476e6f20d9932d822)
+from [DrMattG/TechBk1@d3bf401](https://github.com/DrMattG/TechBk1/tree/d3bf401a95ee19a454eace380c4458890c7aabc0)
 on September 13, 2022.
 </em></small>
 
@@ -112,6 +116,16 @@ on September 13, 2022.
     [victorianolan8](https://github.com/victorianolan8)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [victoria_nolan1](https://twitter.com/victoria_nolan1)<br>
+  <small>
+     Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
+  </small>
+
++ **Sprih Harsh**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-6462-7668](https://orcid.org/0000-0002-6462-7668)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [spharsh](https://github.com/spharsh)<br>
   <small>
      Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   </small>
