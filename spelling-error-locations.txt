@@ -1,9 +1,15 @@
 content/01.introduction.md:15:observability
 content/01.introduction.md:17:controllability
+content/02.Open_Science.md:3:Erlend
 content/02.Open_Science.md:3:Grainger
+content/02.Open_Science.md:3:Nilsen
+content/03.Basics_Management_Decision_Science.md:3:Erlend
 content/03.Basics_Management_Decision_Science.md:3:Grainger
+content/03.Basics_Management_Decision_Science.md:3:Nilsen
 content/03.Basics_Management_Decision_Science.md:9:PrOACT
+content/04.Causation_&_Inference.md:3:Erlend
 content/04.Causation_&_Inference.md:3:Grainger
+content/04.Causation_&_Inference.md:3:Nilsen
 content/04.Causation_&_Inference.md:23:Acyclic
 content/06.Sampling.md:3:Sprih
 content/07.Publication_Process.md:3:Sprih
