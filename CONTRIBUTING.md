@@ -48,3 +48,4 @@ You can search for topics and even propose new categories!
 We can consider that issues are tasks that need to be addressed, are *not* permanent, and thus are made to be closed. 
 
 > Important: _If you would like to provide changes to files that are not related to the `content` directory, please open a descriptive issue and only perform prospective changes through pull requests._
+
