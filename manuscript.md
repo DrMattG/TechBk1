@@ -5,7 +5,7 @@ keywords:
 - publishing
 - open science
 lang: en-US
-date-meta: '2022-09-12'
+date-meta: '2022-09-13'
 author-meta:
 - James Martin
 - Matthew J. Grainger
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="og:title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="twitter:title" content="Chapter 1: Management, Research and Experimental Design" />
-  <meta name="dc.date" content="2022-09-12" />
-  <meta name="citation_publication_date" content="2022-09-12" />
+  <meta name="dc.date" content="2022-09-13" />
+  <meta name="citation_publication_date" content="2022-09-13" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,9 +46,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/ca9ac5cb41af7240b8b97982b2e1e9be48dba9c0/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/ca9ac5cb41af7240b8b97982b2e1e9be48dba9c0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/ca9ac5cb41af7240b8b97982b2e1e9be48dba9c0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -70,10 +70,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/ca9ac5cb41af7240b8b97982b2e1e9be48dba9c0/))
+([permalink](https://DrMattG.github.io/TechBk1/v/1ff7ada5c05288b44a862a3476e6f20d9932d822/))
 was automatically generated
-from [DrMattG/TechBk1@ca9ac5c](https://github.com/DrMattG/TechBk1/tree/ca9ac5cb41af7240b8b97982b2e1e9be48dba9c0)
-on September 12, 2022.
+from [DrMattG/TechBk1@1ff7ada](https://github.com/DrMattG/TechBk1/tree/1ff7ada5c05288b44a862a3476e6f20d9932d822)
+on September 13, 2022.
 </em></small>
 
 ## Authors
