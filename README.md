@@ -9,15 +9,15 @@
 
 <!-- usage note: edit this section. -->
 
-This repository contains text for the Wildlife Techniques Manual.
+This repository contains text for Chapter 1 of the 9th Edition of the Wildlife Techniques Manual. Authors include James A. Martin, Matthew Grainger, Erlend Nilsen, Chloe Nater, Sprih Harsh, Victoria Nolan, and Will Lewis. 
 
-Whose idea was this?
+
 
 ## Manubot
 
 <!-- usage note: do not edit this section -->
 
-Manubot is a system for writing scholarly manuscripts via GitHub.
+We are using Manubot to collboratively write our chapter. Manubot is a system for writing scholarly manuscripts via GitHub.
 Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
 An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
 The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
