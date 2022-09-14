@@ -30,6 +30,14 @@ authors:
     email: victorianolan888@gmail.com
     affiliations:
       - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
+  - github: wblewis7
+    name: William B. Lewis
+    initials: WBL
+    orcid: 0000-0003-4978-6027
+    email: wblewis7@gmail.com
+    twitter:
+    affiliations:
+      - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   - github: ErlendNilsen
     name: Erlend B. Nilsen
     initials: EBN
@@ -42,7 +50,7 @@ authors:
     name: Sprih Harsh
     initials: SH
     orcid: 0000-0002-6462-7668
-    email: sprih.harsh@gmail.com
+    email: sprih.harsh@gmail.com   
     affiliations:
       - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   - github: ChloeRN
