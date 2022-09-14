@@ -1,4 +1,6 @@
 Acyclic
+Chloé
+ChloeRN
 coauthorship
 controllability
 DrMattG
@@ -7,7 +9,8 @@ Erlend
 ErlendNilsen
 gamebirddoc
 Grainger
-Nilsen
+Nater
+nilsen
 observability
 PrOACT
 quaildoc

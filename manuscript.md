@@ -5,13 +5,14 @@ keywords:
 - publishing
 - open science
 lang: en-US
-date-meta: '2022-09-13'
+date-meta: '2022-09-14'
 author-meta:
 - James Martin
 - Matthew J. Grainger
 - Victoria Nolan
 - Erlend B. Nilsen
 - Sprih Harsh
+- Chloé R. Nater
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -22,8 +23,8 @@ header-includes: |-
   <meta name="citation_title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="og:title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="twitter:title" content="Chapter 1: Management, Research and Experimental Design" />
-  <meta name="dc.date" content="2022-09-13" />
-  <meta name="citation_publication_date" content="2022-09-13" />
+  <meta name="dc.date" content="2022-09-14" />
+  <meta name="citation_publication_date" content="2022-09-14" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -49,15 +50,19 @@ header-includes: |-
   <meta name="citation_author" content="Sprih Harsh" />
   <meta name="citation_author_institution" content="Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA" />
   <meta name="citation_author_orcid" content="0000-0002-6462-7668" />
+  <meta name="citation_author" content="Chloé R. Nater" />
+  <meta name="citation_author_institution" content="Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway" />
+  <meta name="citation_author_orcid" content="0000-0002-7975-0108" />
+  <meta name="twitter:creator" content="@chloe_nater" />
   <link rel="canonical" href="https://DrMattG.github.io/TechBk1/" />
   <meta property="og:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta property="twitter:url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/8683d685eb3d57ce4dca3c64563e18467c48db0f/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/8683d685eb3d57ce4dca3c64563e18467c48db0f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/8683d685eb3d57ce4dca3c64563e18467c48db0f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/3f75d173236f9d9402126381a360835e189d5ce2/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/3f75d173236f9d9402126381a360835e189d5ce2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/3f75d173236f9d9402126381a360835e189d5ce2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -79,10 +84,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/8683d685eb3d57ce4dca3c64563e18467c48db0f/))
+([permalink](https://DrMattG.github.io/TechBk1/v/3f75d173236f9d9402126381a360835e189d5ce2/))
 was automatically generated
-from [DrMattG/TechBk1@8683d68](https://github.com/DrMattG/TechBk1/tree/8683d685eb3d57ce4dca3c64563e18467c48db0f)
-on September 13, 2022.
+from [DrMattG/TechBk1@3f75d17](https://github.com/DrMattG/TechBk1/tree/3f75d173236f9d9402126381a360835e189d5ce2)
+on September 14, 2022.
 </em></small>
 
 ## Authors
@@ -145,6 +150,18 @@ on September 13, 2022.
     [spharsh](https://github.com/spharsh)<br>
   <small>
      Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
+  </small>
+
++ **Chloé R. Nater**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-7975-0108](https://orcid.org/0000-0002-7975-0108)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [ChloeRN](https://github.com/ChloeRN)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [chloe_nater](https://twitter.com/chloe_nater)<br>
+  <small>
+     Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
   </small>
 
 
