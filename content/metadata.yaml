@@ -22,12 +22,11 @@ authors:
     twitter: Ed_pheasant
     affiliations:
       - Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
-  - github: victorianolan8
-    name: Victoria Nolan
-    initials: VN
-    orcid: 0000-0002-6069-963X
-    twitter: victoria_nolan1
-    email: victorianolan888@gmail.com
+  - github: spharsh
+    name: Sprih Harsh
+    initials: SH
+    orcid: 0000-0002-6462-7668
+    email: sprih.harsh@gmail.com   
     affiliations:
       - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   - github: wblewis7
@@ -38,21 +37,6 @@ authors:
     twitter:
     affiliations:
       - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
-  - github: ErlendNilsen
-    name: Erlend B. Nilsen
-    initials: EBN
-    orcid: 0000-0002-5119-8331
-    twitter: eb_nilsen
-    email: erlend.nilsen@nina.no
-    affiliations:
-      - Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
-  - github: spharsh
-    name: Sprih Harsh
-    initials: SH
-    orcid: 0000-0002-6462-7668
-    email: sprih.harsh@gmail.com   
-    affiliations:
-      - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
   - github: ChloeRN
     name: Chloé R. Nater
     initials: CRN
@@ -61,3 +45,23 @@ authors:
     twitter: chloe_nater
     affiliations:
       - Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
+  - github: ErlendNilsen
+    name: Erlend B. Nilsen
+    initials: EBN
+    orcid: 0000-0002-5119-8331
+    twitter: eb_nilsen
+    email: erlend.nilsen@nina.no
+    affiliations:
+      - Terrestrial Biodiversity, Norwegian Institute for Nature Research - NINA, Postbox 5685 Torgarden, 7485 Trondheim, Norway
+  - github: victorianolan8
+    name: Victoria Nolan
+    initials: VN
+    orcid: 0000-0002-6069-963X
+    twitter: victoria_nolan1
+    email: victorianolan888@gmail.com
+    affiliations:
+      - Warnell School of Forestry and Natural Resources, University of Georgia, 180 E. Green Street, Athens GA
+ 
+
+ 
+ 
