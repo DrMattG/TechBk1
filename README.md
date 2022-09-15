@@ -18,6 +18,67 @@ This repository contains text for the Wildlife Techniques Manual.
 
 Chapter 1 of the next edition of the Wildlife Techniques Manual will include issues around open and reproducible science. Given the theme we have decided to write the Chapter using a publicly assessable and open-source platform. 
 
+## Philosophy of the 9th Edition
+
+Philosophy of the 9th Edition:
+The Wildlife Techniques Manual has been the cornerstone book on field, laboratory, and 
+quantitative techniques for almost 60 years. The goals for the book are (1) to provide 
+wildlife biologists (current and new) with expert advice and guidance on broadly used 
+methods (i.e., not niche methods) for research and management, (2) to provide students in 
+college courses with resource material to support learning exercises in their courses, and 
+(3) to serve as an accepted set of best practices for techniques for research and 
+management in the wildlife profession. The book will cover aspects of study design, 
+management planning, animal capture and handling and identification, sampling 
+populations, harvest management, habitat management, and laboratory techniques for 
+studies in genetics and physiology.
+
+We aspire to develop chapters with our authors that will (1) remain focused on the 
+learning goals for the chapter, (2) represent holistic ecosystem management approaches to 
+model best practices to the profession, and (3) fit decision-making frameworks that allow 
+students and professionals to see how the modeled techniques or ideas relate back to 
+advancing the ability of our profession to support effective and successful management 
+decisions. 
+
+Certainly, the Wildlife Techniques Manual serves as a review document. Despite challenges 
+with the turnaround time for writing and publishing, we wish our authors to push new 
+ideas or frameworks in the chapters to spur growth and thought in our field of study.
+Outcomes for book:
++ to provide wildlife biologists (current and new) with expert advice and guidance on broadly used methods (i.e., not niche methods) for research and management
++ to provide students in college courses with resource material to support learning exercises in their courses
++ to serve as an accepted set of best practices for techniques for research and management in the wildlife profession to look to the future
+
+## Structure for Chapters and On-line Support Material
+
+Chapter Introduction:
+
+Each chapter will start with a list of goals for the chapter, a chapter summary, and a short 
+problem-case. The latter is primarily intended to be used by college/university students as 
+a first step towards thinking about the material found in the chapter, to provide context. 
+However, we have also structured the chapter introduction to be useful for current 
+professionals who are using the book to learn about a new technique.
+
+Chapter Structure and Challenge to Authors:
+
+Authors will be asked to provide a concise, logical structure to the material in each chapter 
+so that the objectives for the chapter define what is included. In addition, each chapter will 
+be written in the context of management (decision-making) to provide clear connections 
+between the methods and techniques described and the needs of managers to manage 
+people, wildlife populations, and habitat. Specifically, authors will be challenged to provide 
+clear descriptions of guiding principles, frameworks, and other decision-making rubrics or 
+guides that are used by wildlife biologists and managers in that particular area of study. 
+Authors will end chapters with a short list of additional resources, which point readers 
+needing further details to other publications.
+
+On-line Support Materials:
+
+For use by instructors who have adopted the textbook for course in wildlife science or 
+wildlife techniques, we propose to provide all images used in the chapter, for easy inclusion 
+in instructors’ class presentations. We also will challenge each set of authors to develop 
+one 15- to 30-minute active learning exercise (role playing, group problem solving, 
+scenario development, decision exercise, or similar) to be used to complement the material 
+found in the chapter.
+
+
 ## Important links and dates
 
 **Links**
