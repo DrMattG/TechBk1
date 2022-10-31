@@ -20,7 +20,7 @@ One key thing to decide before beginning the manuscript submission process is wh
 Another potentially controversial and confusing decision when submitting multi-authored manuscripts is in what order should the authors appear in the author list (Tscharntke et al., 2007). The first author position, receiving the most credit for the work, is generally the individual who has played the most crucial role in the work (e.g. the project lead or primary writer), with all subsequent authors listed either in order of decreasing contribution, alphabetically or in order of seniority. In some scientific fields or for particular journals, the last author position is seen as prestigiously equal to first author position and is reserved for the team leader e.g. the project manager or research principal investigator. It is important to check if the chosen journal has specific instructions about authorship contributions and order to ensure that each individual receives the appropriate credit for their work on that research project.
 
 <center>
-![](Box1.png) 
+![](images/Box1.png) 
 
 </center>
 The final decision to make is who acts as the corresponding author (e.g. the individual who submits the final manuscript draft and is responsible for handling all correspondence with the journal and editors). Usually this is the first (or last if appropriate) author of the paper, and is the person responsible for handling all queries, revisions and approving article proofs from the journal. The corresponding author is also committed to declaring on behalf of all co-authors that there are no conflict of interests or prior publications of the work, and that all work is original and was conducted ethically (Shewan and Coats, 2010).
@@ -46,7 +46,7 @@ Obtaining feedback from colleagues and peers has been shown to be extremely valu
 During the actual submission process however, a journal will sometimes request or even mandate authors to suggest the names of potential peer-reviewers (Moore et al., 2011; Liang, 2018). This saves time for the editors in finding potential reviewers specialized in that field, and is therefore also beneficial for the authors in receiving a timely response to their submission. If requested to do so, have a careful think about who might be suitable to review your work; these selected individuals should have no conflict of interest with your research, and should not have been involved with any stages of work, reviewing or writing the manuscript. Sensible suggestions most likely to be accepted by an editor will most likely be individuals with a strong publication record relevant to the manuscript e.g. someone you have cited frequently in your work, or a known expert in that field. Avoid if possible individuals from the same institution or geographic area, or very highly renowned individuals who may not be able to spare time for peer-review (Eyers, 2021). Less frequently, there may also be an option to suggest peer-reviewers to avoid: these might be individuals with conflicts of interest in your work, or you might want to avoid them if they are known to be a very harsh, critical reviewer or for some other personal reason. Similar rules apply if the journal asks you to list preferred or non-preferred editors: make sure to take the time to research the individuals and their areas of expertise to make sure that your manuscript lands in the hands of the person most likely to facilitate its procession through the peer-review process. 
 
 <center>
-![Figure X. General outline of the four main steps to consider when choosing the most appropriate outlet for the publication of your research.](FigX.png) 
+![Figure X. General outline of the four main steps to consider when choosing the most appropriate outlet for the publication of your research.](images/FigX.png) 
 
 </center>
 
@@ -60,7 +60,7 @@ Anyone can become a peer-reviewer, with the chances of being invited to review b
 Once an invite is issued by the journal editor and accepted, the reviewer is able to see the full material and begin their review. Starting a review is often overwhelming, especially for first time reviewers, but there are many resources to help with this, including usually quite detailed advice from the journal online aimed at reviewers. Sometimes the journal also provides a more structured review template, consisting of a series of short question pertaining to the material to help direct the review. However, as this is not always available, we have compiled a brief step-by-step guide to carrying out a systematic review, based on online advice from three of the major academic publishers; Wiley, PLOS and ELSEVIER (Figure X2). We acknowledge that there are many different ways to carry out a good review, but we hope this schematic will provide a useful starting point for first time reviewers to help them develop their own review styles.
 
 <center>
-![Figure X2. A brief step-by-step example guide to carrying out a systematic unstructured peer review. Compiled from online informational sources by major publishers Wiley, PLOS and Elsevier.](FigX2.png) 
+![Figure X2. A brief step-by-step example guide to carrying out a systematic unstructured peer review. Compiled from online informational sources by major publishers Wiley, PLOS and Elsevier.](images/FigX2.png) 
 
 </center>
 
@@ -76,7 +76,7 @@ When responding to each comment remember that an editor’s time is valuable and
 One important final thing to mention is that authors actually have no obligation to carry out all or even any of the corrections if they fundamentally disagree with the comments, they are outside the scope of the work or the work has been misinterpreted or misunderstood. If so, it is perfectly acceptable to write a response clarifying why you disagree or do not wish to make the suggested change. Many students and early-career researchers often feel underqualified to disagree with a reviewer, but remember that you conducted the work and should have a good understanding of the feasibility and robustness of your methodology, and will likely have considered the limitations and scope of your study for much longer than the reviewer. If writing in disagreement, just make sure to always acknowledge the point of view of the reviewer, and always use very clear examples and cite supporting literature or other studies to back up your point of view. As with writing a peer-review (see Figure X2), always using courteous and professional language, and try to avoid sounding passive-aggressive or even aggressive, even if the reviewer is unnecessarily critical or harsh. 
 
 <center>
-![](Box2.png) 
+![](images/Box2.png) 
 
 </center>
 
