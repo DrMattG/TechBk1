@@ -371,12 +371,14 @@ for environmental variation by restricting the effects to a single level
 of habitat quality (B), or accounting for environmental variation
 through blocking across levels of habitat quality
 (C).](BlockingFigure.png)
+![BlockingFigure](https://user-images.githubusercontent.com/10168347/205140795-c086b739-3f27-41cc-a76a-5ee9aa4a3835.png)
 
 ![Box 1.1. Example R-code showing the effects of controlling variation
 through restricting sampling and blocking. In this example, we wish to
 assess the effects of insecticides on the body mass of red-eyed vireos
 (Vireo olivaceus). Study plots are distributed across 8 different forest
 patches which vary in habitat quality.](blocking.png)
+![blocking](https://user-images.githubusercontent.com/10168347/205140839-3a1c644e-d6b7-4203-83b3-9522afb4d816.png)
 
 Blocking is not just valuable for experimental studies, but should be
 carefully considered when designing observational studies as well.
@@ -432,6 +434,7 @@ statistical analyses. In this example, age-related differences in
 late-summer of survival of mourning doves (Zenaida macroura) are of
 interest; however, body size (as measured by wing length) and food
 abundance also affect survival.](statisticalcontrol.png)
+![statisticalcontrol](https://user-images.githubusercontent.com/10168347/205140978-8162fd32-0ddd-4306-91db-8150ad0bdbaa.png)
 
 ## References
 
