@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/dc8e05e4ce49f2e3a67adfca8a71a16c9624019e/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/dc8e05e4ce49f2e3a67adfca8a71a16c9624019e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/dc8e05e4ce49f2e3a67adfca8a71a16c9624019e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/9963a8c649c0f5268328e59bce97cbf322f6100c/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/9963a8c649c0f5268328e59bce97cbf322f6100c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/9963a8c649c0f5268328e59bce97cbf322f6100c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/dc8e05e4ce49f2e3a67adfca8a71a16c9624019e/))
+([permalink](https://DrMattG.github.io/TechBk1/v/9963a8c649c0f5268328e59bce97cbf322f6100c/))
 was automatically generated
-from [DrMattG/TechBk1@dc8e05e](https://github.com/DrMattG/TechBk1/tree/dc8e05e4ce49f2e3a67adfca8a71a16c9624019e)
+from [DrMattG/TechBk1@9963a8c](https://github.com/DrMattG/TechBk1/tree/9963a8c649c0f5268328e59bce97cbf322f6100c)
 on June 23, 2023.
 </em></small>
 
@@ -207,11 +207,11 @@ on June 23, 2023.
 ## Structural uncertainty 
 
 
-# Opening the Gates of Management and Science 
+## Opening the Gates of Management and Science 
 
 <!-- Leader: Chloe Nater; co-leaders: Matt Grainger, and Erlend Nilsen -->
 
-## Openness to diversity of knowledge 
+### Openness to diversity of knowledge 
 
 Wildlife research and management are closely entwined fields with a large number of different stakeholders. Not only that, but the stakeholders typically represent a highly diverse group of actors with complimentary knowledge and expertise relevant to the wildlife systems and/or management challenges at hand [drescher2013]. 
 This diversity of knowledge can be illustrated through the -- admittedly very vague -- concept of "expert knowledge".  
@@ -224,7 +224,7 @@ Some **citizen scientists** (sometimes also called "community scientists") may p
 Notably, individuals may also belong to several of the categories introduced above. Wildlife managers, for example, may be actively doing research (or have done so in the past) and may also be collecting citizen science data in their free time. Indigenous people may hold central roles in conservation decision making. Some researchers may have indigenous backgrounds, etc. If anything, that only further enhances the diversity of knowledge surrounding wildlife research and management.
 
 
-## Engagement of diverse stakeholders 
+### Engagement of diverse stakeholders 
 
 Harnessing and making optimal use of the diversity of available knowledge surrounding wildlife and wildlife management requires broad involvement of different stakeholder groups [e.g. @rubert2021]. Collaboration is key, and this necessitates that the entire process -- from data collection to policy implementation -- is inclusive. Four principles form the basis of inclusivity in this context:  openness, accessbility, transparency, and reproducibility. These principles are also the corner stones of open science [@hampton2015; 
 @powers2019; @vincente2020].
@@ -232,7 +232,7 @@ Harnessing and making optimal use of the diversity of available knowledge surrou
 Robust decision-making based on diverse knowledge thus requires workflows that are open, accessible, transparent, and reproducible and the next section provides and overview over the components of such workflows (Figure X). 
 
 
-## Open and accessible workflows
+### Open and accessible workflows
 
 When considering research workflows, we often only think of the steps connecting data and results. However, complete workflows in wildife research and management begin with planning and implementation of monitoring and end with reporting, decision making, and evaluation. Knowledge is built incrementally, and workflows should therefore also be thought of as cycles where newly gained information and results from evaluation feed back into earlier steps (e.g. sensu adaptive management, @williams2011; @nichols2015). 
 
