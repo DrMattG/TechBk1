@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/40be5f68ac4191f7365120ff2a54210b9725c43b/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/40be5f68ac4191f7365120ff2a54210b9725c43b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/40be5f68ac4191f7365120ff2a54210b9725c43b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/6334900cd80c7fc327f7c22ecc8808c83fa2c5cc/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6334900cd80c7fc327f7c22ecc8808c83fa2c5cc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6334900cd80c7fc327f7c22ecc8808c83fa2c5cc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/40be5f68ac4191f7365120ff2a54210b9725c43b/))
+([permalink](https://DrMattG.github.io/TechBk1/v/6334900cd80c7fc327f7c22ecc8808c83fa2c5cc/))
 was automatically generated
-from [DrMattG/TechBk1@40be5f6](https://github.com/DrMattG/TechBk1/tree/40be5f68ac4191f7365120ff2a54210b9725c43b)
+from [DrMattG/TechBk1@6334900](https://github.com/DrMattG/TechBk1/tree/6334900cd80c7fc327f7c22ecc8808c83fa2c5cc)
 on June 23, 2023.
 </em></small>
 
@@ -840,6 +840,7 @@ Thompson, S. K., and G. A. F. Seber. 1994. Detectability in conventional and ada
 Williams, B. K., J. D. Nichols, and M. J. Conroy. 2002. Analysis and management of animal populations. Academic, San Diego, California, USA
 
 Zar, J. H. 1999. Biostatistical analysis. 4th edition. Prentice/ Hall, Upper Saddle River, New Jersey.
+
 
 
 ## The Publication and Peer Review Process 
