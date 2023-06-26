@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/fc76911e75cd64cc6287e00744a174deb12bb5c3/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/fc76911e75cd64cc6287e00744a174deb12bb5c3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/fc76911e75cd64cc6287e00744a174deb12bb5c3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/fc76911e75cd64cc6287e00744a174deb12bb5c3/))
+([permalink](https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/))
 was automatically generated
-from [DrMattG/TechBk1@fc76911](https://github.com/DrMattG/TechBk1/tree/fc76911e75cd64cc6287e00744a174deb12bb5c3)
+from [DrMattG/TechBk1@e908e60](https://github.com/DrMattG/TechBk1/tree/e908e6021394b8c0f43c434616fa1aac5a6a5415)
 on June 26, 2023.
 </em></small>
 
@@ -192,6 +192,9 @@ on June 26, 2023.
 
 ### What is wildlife science and management? 
 
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
+
 ### Seeking truth 
 
 ### Uncertainty 
@@ -210,6 +213,10 @@ on June 26, 2023.
 ## Opening the Gates of Management and Science 
 
 <!-- Leader: Chloe Nater; co-leaders: Matt Grainger, and Erlend Nilsen -->
+
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
+
 
 ### Openness to diversity of knowledge 
 
@@ -259,6 +266,11 @@ Wildlife research and management need to be open and accessible to harness the d
 
 <!-- Leader: James A. Martin; co-leaders: Erlend Nilsen, and Matt Grainger -->
 
+
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
+
+
 ### Value of Information 
 
 ### Evidence 
@@ -272,6 +284,10 @@ Wildlife research and management need to be open and accessible to harness the d
 ## Causation and Inference 
 
 <!--  Leader: Erlend Nilsen; co-leaders: Chloé Nater and Matt Grainger, and James Martin -->
+
+
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
 
 ### Asking the right questions in the right way
 
@@ -301,6 +317,8 @@ Wildlife research and management need to be open and accessible to harness the d
 ## Basics of Robust Experimental Design 
 
 <!-- Leader: Will Lewis; co-leaders: James Martin -->
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
 
 Researchers must carefully consider the design of their study before
 initiating experiments or collecting observational data. After
@@ -737,6 +755,8 @@ abundance also affect survival.](statisticalcontrol.png)
 
 
 ## Sampling
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
 
 The ecological question often revolves around measuring relevant biological variables (survival, density, etc.) on items (like populations, species, subspecies, etc.) of interest in the system under study. In these questions, researchers conduct studies to obtain accurate estimates of characteristics that are important for management and conservation decisions. A vast amount of literature on the subject of **sampling or finite population sampling** (Cochran 1963) exists to help researchers in planning these studies.
 
@@ -824,8 +844,8 @@ Zar, J. H. 1999. Biostatistical analysis. 4th edition. Prentice/ Hall, Upper Sad
 
 ## The Publication and Peer Review Process 
 <!-- Leader: Victoria Nolan; co-leaders: Sprih Harsh --> 
-
-### Introduction to Peer Review and Publication
+<!--Add references using [@doi:]
+If no doi then add to the manual-references.json file -->
 
 Effective dissemination and communication of scientific aims, methodology and results is a crucial component of research. Publishing research findings facilitates idea development and sharing within the scientific community and to a wider wildlife audience, including landowners, conservationists and key decision makers keen to implement new research and concepts in practical ways. Much of the published research available in journals in print and online has been through the ‘peer review’ process, where a draft of the manuscript proceeds through several rounds of reviews by at least one, usually anonymous, academic research peer specializing in that particular research field [@doi:10.1002/aris.2011.1440450112]. In theory, this ensures that all peer-reviewed published research is of a high quality, has been thoroughly proof-checked and is being seen by the most appropriate and wide reaching audience possible. Nevertheless, the process of publishing and reviewing scientific research is often daunting to students and early career researchers, and there is relatively little cohesive advice or guidelines about the process, often leaving such individuals to ‘figure it out for themselves’. In this section, we aim to provide a short overview of the process, both for authors and peer-reviewers, to eliminate some of the confusion and mystery about the publication of academic research. 
 
