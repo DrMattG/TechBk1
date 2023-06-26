@@ -42,7 +42,7 @@ Dunikowski
 eb
 EF
 elevational
-ELSEVIER
+Elsevier
 Elsevier’s
 envrionmental
 Erlend
@@ -82,7 +82,7 @@ Kassim
 Krauss
 Kvern
 Ladouceur
-lek
+Lek
 leks
 leucopus
 Lewallen
@@ -120,7 +120,7 @@ prestigiously
 priori
 PrOACT
 Proteome
-pseudoreplication
+Pseudoreplication
 Publ
 Publons
 purposively

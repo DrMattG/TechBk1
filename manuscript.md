@@ -5,7 +5,7 @@ keywords:
 - publishing
 - open science
 lang: en-US
-date-meta: '2023-06-23'
+date-meta: '2023-06-26'
 author-meta:
 - James Martin
 - Matthew J. Grainger
@@ -24,8 +24,8 @@ header-includes: |-
   <meta name="citation_title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="og:title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="twitter:title" content="Chapter 1: Management, Research and Experimental Design" />
-  <meta name="dc.date" content="2023-06-23" />
-  <meta name="citation_publication_date" content="2023-06-23" />
+  <meta name="dc.date" content="2023-06-26" />
+  <meta name="citation_publication_date" content="2023-06-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/1c9c057f0008608b2bcc779d03f08da999013208/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1c9c057f0008608b2bcc779d03f08da999013208/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/1c9c057f0008608b2bcc779d03f08da999013208/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/9a41850c69fee64a77434f829ffdee2fceb1130c/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/9a41850c69fee64a77434f829ffdee2fceb1130c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/9a41850c69fee64a77434f829ffdee2fceb1130c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,10 +89,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/1c9c057f0008608b2bcc779d03f08da999013208/))
+([permalink](https://DrMattG.github.io/TechBk1/v/9a41850c69fee64a77434f829ffdee2fceb1130c/))
 was automatically generated
-from [DrMattG/TechBk1@1c9c057](https://github.com/DrMattG/TechBk1/tree/1c9c057f0008608b2bcc779d03f08da999013208)
-on June 23, 2023.
+from [DrMattG/TechBk1@9a41850](https://github.com/DrMattG/TechBk1/tree/9a41850c69fee64a77434f829ffdee2fceb1130c)
+on June 26, 2023.
 </em></small>
 
 ## Authors
@@ -849,11 +849,11 @@ Zar, J. H. 1999. Biostatistical analysis. 4th edition. Prentice/ Hall, Upper Sad
 
 ### Introduction to Peer Review and Publication
 
-Effective dissemination and communication of scientific aims, methodology and results is a crucial component of research. Publishing research findings facilitates idea development and sharing within the scientific community and to a wider wildlife audience, including landowners, conservationists and key decision makers keen to implement new research and concepts in practical ways. Much of the published research available in journals in print and online has been through the ‘peer review’ process, where a draft of the manuscript proceeds through several rounds of reviews by at least one, usually anonymous, academic research peer specializing in that particular research field (Bornmann, 2011). In theory, this ensures that all peer-reviewed published research is of a high quality, has been thoroughly proof-checked and is being seen by the most appropriate and wide reaching audience possible. Nevertheless, the process of publishing and reviewing scientific research is often daunting to students and early career researchers, and there is relatively little cohesive advice or guidelines about the process, often leaving such individuals to ‘figure it out for themselves’. In this section, we aim to provide a short overview of the process, both for authors and peer-reviewers, to eliminate some of the confusion and mystery about the publication of academic research. 
+Effective dissemination and communication of scientific aims, methodology and results is a crucial component of research. Publishing research findings facilitates idea development and sharing within the scientific community and to a wider wildlife audience, including landowners, conservationists and key decision makers keen to implement new research and concepts in practical ways. Much of the published research available in journals in print and online has been through the ‘peer review’ process, where a draft of the manuscript proceeds through several rounds of reviews by at least one, usually anonymous, academic research peer specializing in that particular research field [@doi:10.1002/aris.2011.1440450112]. In theory, this ensures that all peer-reviewed published research is of a high quality, has been thoroughly proof-checked and is being seen by the most appropriate and wide reaching audience possible. Nevertheless, the process of publishing and reviewing scientific research is often daunting to students and early career researchers, and there is relatively little cohesive advice or guidelines about the process, often leaving such individuals to ‘figure it out for themselves’. In this section, we aim to provide a short overview of the process, both for authors and peer-reviewers, to eliminate some of the confusion and mystery about the publication of academic research. 
 
 ### Determining coauthorship
 
-One key thing to decide before beginning the manuscript submission process is who should be listed as an author of the paper (Allen et al., 2014; Rahman et al., 2017). Scientific work is rarely conducted alone, and successful, meaningful ecological research often involves large collaborative efforts between teams of researchers, conservationists, land-owners, companies, technicians and students. Thus, determining who qualifies to be listed as a co-author is not always straight-forward. Generally speaking, an un-written rule is that an individual should be listed as a co-author if they contribute to at least two crucial components of the work, which may include but are not limited to: initial study design and conceptualization, obtaining funding, project management, field or laboratory work, data collating and processing, statistical analysis and manuscript drafting or proof-reading (Rahman et al., 2017). More often now journals require an ‘Author Contribution’ statement to be added to the manuscript or the online submission form, indicating the contribution of each author to the key tasks involved in compiling the manuscript (Rennie et al., 2000) (see Box 1 for an example author contribution statement).
+One key thing to decide before beginning the manuscript submission process is who should be listed as an author of the paper [doi:10.1038/508312a; doi:10.1016/j.joi.2017.01.002]. Scientific work is rarely conducted alone, and successful, meaningful ecological research often involves large collaborative efforts between teams of researchers, conservationists, land-owners, companies, technicians and students. Thus, determining who qualifies to be listed as a co-author is not always straight-forward. Generally speaking, an un-written rule is that an individual should be listed as a co-author if they contribute to at least two crucial components of the work, which may include but are not limited to: initial study design and conceptualization, obtaining funding, project management, field or laboratory work, data collating and processing, statistical analysis and manuscript drafting or proof-reading (Rahman et al., 2017). More often now journals require an ‘Author Contribution’ statement to be added to the manuscript or the online submission form, indicating the contribution of each author to the key tasks involved in compiling the manuscript (Rennie et al., 2000) (see Box 1 for an example author contribution statement).
 
 Another potentially controversial and confusing decision when submitting multi-authored manuscripts is in what order should the authors appear in the author list (Tscharntke et al., 2007). The first author position, receiving the most credit for the work, is generally the individual who has played the most crucial role in the work (e.g. the project lead or primary writer), with all subsequent authors listed either in order of decreasing contribution, alphabetically or in order of seniority. In some scientific fields or for particular journals, the last author position is seen as prestigiously equal to first author position and is reserved for the team leader e.g. the project manager or research principal investigator. It is important to check if the chosen journal has specific instructions about authorship contributions and order to ensure that each individual receives the appropriate credit for their work on that research project.
 
