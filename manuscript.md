@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c09878fcddef407d288d4268c8a23d3b34a473a0/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c09878fcddef407d288d4268c8a23d3b34a473a0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c09878fcddef407d288d4268c8a23d3b34a473a0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/))
+([permalink](https://DrMattG.github.io/TechBk1/v/c09878fcddef407d288d4268c8a23d3b34a473a0/))
 was automatically generated
-from [DrMattG/TechBk1@7f15f7b](https://github.com/DrMattG/TechBk1/tree/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d)
+from [DrMattG/TechBk1@c09878f](https://github.com/DrMattG/TechBk1/tree/c09878fcddef407d288d4268c8a23d3b34a473a0)
 on June 26, 2023.
 </em></small>
 
@@ -186,25 +186,25 @@ on June 26, 2023.
 :::
 
 
-# Introduction
+## Introduction
 
 <!-- Leader: James A. Martin -->
 
-## What is wildlife science and management? 
+### What is wildlife science and management? 
 
-## Seeking truth 
+### Seeking truth 
 
-## Uncertainty 
+### Uncertainty 
 
-## Environmental variation 
+### Environmental variation 
 
-## Linguistic uncertainty 
+### Linguistic uncertainty 
 
-## Partial observability 
+### Partial observability 
 
-## Partial controllability 
+### Partial controllability 
 
-## Structural uncertainty 
+### Structural uncertainty 
 
 
 ## Opening the Gates of Management and Science 
@@ -255,47 +255,47 @@ Wildlife research and management need to be open and accessible to harness the d
 
 
 
-# Basics of Management/Decision Science
+## Basics of Management/Decision Science
 
 <!-- Leader: James A. Martin; co-leaders: Erlend Nilsen, and Matt Grainger -->
 
-## Value of Information 
+### Value of Information 
 
-## Evidence 
+### Evidence 
 
-## PrOACT 
+### PrOACT 
 
-## Management Strategy Evaluation 
+### Management Strategy Evaluation 
 
-## Adaptive Resource Management 
+### Adaptive Resource Management 
 
-# Causation and Inference 
+## Causation and Inference 
 
 <!--  Leader: Erlend Nilsen; co-leaders: Chloé Nater and Matt Grainger, and James Martin -->
 
-## Asking the right questions in the right way
+### Asking the right questions in the right way
 
-### Estimation questions 
+#### Estimation questions 
 
-### Hypothesis driven research 
+#### Hypothesis driven research 
 
-### Exploratory research 
+#### Exploratory research 
 
-## Causation and correlation 
+### Causation and correlation 
 
-### Sufficient causation 
+#### Sufficient causation 
 
-### Necessary causation 
+#### Necessary causation 
 
-## Manipulative Experiments 
+### Manipulative Experiments 
 
-## Observational Studies 
+### Observational Studies 
 
-### Directed Acyclic Graphs (DAGs) 
+#### Directed Acyclic Graphs (DAGs) 
 
-### Confounding variables 
+#### Confounding variables 
 
-### Mediator and moderating variables 
+#### Mediator and moderating variables 
 
 
 ## Basics of Robust Experimental Design 
@@ -327,7 +327,7 @@ process, researchers should carefully consider the three cornerstones of
 experimental design [@doi:10.2307/3802926]: 1) Randomization, 2) Replication,
 and 3) Controls.
 
-## Randomization
+### Randomization
 
 Randomly assigning treatments to units is a fundamental cornerstone of
 experimental studies. Indeed, it is the ability of the researcher to
@@ -369,7 +369,7 @@ if we have a pool of potential survey areas at high and low elevations,
 we could randomly select a subset of study locations within each
 elevation band.
 
-## Replication
+### Replication
 
 Replication is the process of conducting experimental manipulations or
 observations on multiple, independent units. Appropriate levels of
@@ -433,7 +433,7 @@ researchers to assess the feasibility of the study design and identify
 previously-overlooked methodological issues before the main study
 commences.
 
-<!--**Comment: I tried to keep the discussion of the power analyses simple here so I omitted discussing type I and II error rates (since those are set by the researcher in the design phase). I could bring them up, but would require a much more in-depth discussion. Are error rates brought up anywhere else? Also, I could add a section discussing how retrospective power analyses are not really valid, though this would require discussion of power.** -->
+<!-- **Comment: I tried to keep the discussion of the power analyses simple here so I omitted discussing type I and II error rates (since those are set by the researcher in the design phase). I could bring them up, but would require a much more in-depth discussion. Are error rates brought up anywhere else? Also, I could add a section discussing how retrospective power analyses are not really valid, though this would require discussion of power.** -->
 
 Though replication is imperative in scientific studies, researchers must
 be careful to avoid pseudoreplication. True experimental replicates are
@@ -540,7 +540,7 @@ that particular dam. Without replication, there is no way of assessing
 if the results from this particular dam are reflective of general
 effects of dams on fish communities.
 
-## Controls
+### Controls
 
 The word “control” can apply to multiple different topics in
 experimental design [@doi:10.2307/3802926]. One of the most common uses is to
@@ -737,8 +737,6 @@ abundance also affect survival.](statisticalcontrol.png)
 
 
 ## Sampling
-
-### Introduction 
 
 The ecological question often revolves around measuring relevant biological variables (survival, density, etc.) on items (like populations, species, subspecies, etc.) of interest in the system under study. In these questions, researchers conduct studies to obtain accurate estimates of characteristics that are important for management and conservation decisions. A vast amount of literature on the subject of **sampling or finite population sampling** (Cochran 1963) exists to help researchers in planning these studies. 
 
