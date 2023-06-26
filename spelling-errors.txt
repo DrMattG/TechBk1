@@ -5,7 +5,6 @@ Annu
 APCs
 arctos
 BACI
-Bence
 berkes
 binley
 biogeographical
@@ -39,7 +38,7 @@ Dunikowski
 eb
 EF
 elevational
-ELSEVIER
+Elsevier
 Elsevier’s
 envrionmental
 Erlend
@@ -59,13 +58,11 @@ Grainger
 gridded
 Handford
 Haque
-Heffner
 hemionus
 Hlava
 Hochberg
 Hoffart
 horribilis
-Hurlbert
 impactful
 inclusivity
 indabilty
@@ -140,7 +137,7 @@ SJR
 spharsh
 Sprih
 statisticalcontrol
-Steidl
+steidl
 subunit
 subunits
 Surg

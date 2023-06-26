@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/5e0dd504d21bfcc9b1b43c23c4ac83530d6febf6/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/5e0dd504d21bfcc9b1b43c23c4ac83530d6febf6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/5e0dd504d21bfcc9b1b43c23c4ac83530d6febf6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/5e0dd504d21bfcc9b1b43c23c4ac83530d6febf6/))
+([permalink](https://DrMattG.github.io/TechBk1/v/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d/))
 was automatically generated
-from [DrMattG/TechBk1@5e0dd50](https://github.com/DrMattG/TechBk1/tree/5e0dd504d21bfcc9b1b43c23c4ac83530d6febf6)
+from [DrMattG/TechBk1@7f15f7b](https://github.com/DrMattG/TechBk1/tree/7f15f7b9b012c3efc7c4535bb531ddfe28eb560d)
 on June 26, 2023.
 </em></small>
 
@@ -302,8 +302,6 @@ Wildlife research and management need to be open and accessible to harness the d
 
 <!-- Leader: Will Lewis; co-leaders: James Martin -->
 
-## Introduction
-
 Researchers must carefully consider the design of their study before
 initiating experiments or collecting observational data. After
 formulating a hypothesis, researchers should answer the following
@@ -326,7 +324,7 @@ study may also be helpful. Soliciting advice and review from experts can
 help to improve the design of a study and rectify any overlooked
 methodological issues before data collection starts. During this
 process, researchers should carefully consider the three cornerstones of
-experimental design (Johnson 2002): 1) Randomization, 2) Replication,
+experimental design [@doi:10.2307/3802926]: 1) Randomization, 2) Replication,
 and 3) Controls.
 
 ## Randomization
@@ -416,8 +414,7 @@ estimated by performing a prospective power analysis during the design
 phase. Power analyses estimate can estimate the minimum required sample
 size for a study based on two parameters: 1) the desired or expected
 magnitude of the difference between treatment groups, and 2) the
-expected variance between units within treatment group. See Steidl &
-Thomas (2001) for a detailed description of power analyses. The
+expected variance between units within treatment group. See @steidl2001 for a detailed description of power analyses. The
 question, then, is how to estimate the expected variance and difference
 between treatment groups before collecting any data. Researchers can use
 estimates derived from published literature in a similar study system
@@ -436,16 +433,15 @@ researchers to assess the feasibility of the study design and identify
 previously-overlooked methodological issues before the main study
 commences.
 
-    **Comment: I tried to keep the discussion of the power analyses simple here so I omitted discussing type I and II error rates (since those are set by the researcher in the design phase). I could bring them up, but would require a much more in-depth discussion. Are error rates brought up anywhere else? Also, I could add a section discussing how retrospective power analyses are not really valid, though this would require discussion of power.**
+<!--**Comment: I tried to keep the discussion of the power analyses simple here so I omitted discussing type I and II error rates (since those are set by the researcher in the design phase). I could bring them up, but would require a much more in-depth discussion. Are error rates brought up anywhere else? Also, I could add a section discussing how retrospective power analyses are not really valid, though this would require discussion of power.** -->
 
 Though replication is imperative in scientific studies, researchers must
 be careful to avoid pseudoreplication. True experimental replicates are
 independent of each other; however, pseudoreplication occurs when
 measurements which are not independent are treated as independent in
-statistical analyses (Hurlbert 1984). The consequences of
+statistical analyses [@doi:10.2307/1942661]. The consequences of
 pseudoreplication include overestimating precision and falsely
-concluding that there is a treatment effect when there is none (Heffner
-et al. 1996). Preventing pseudoreplication requires correctly
+concluding that there is a treatment effect when there is none [@doi:10.2307/2265754]. Preventing pseudoreplication requires correctly
 identifying the experimental unit of a study, which is the lowest
 experimental level in which units are independent from others. The
 experimental unit is the level at which the treatment is applied in
@@ -529,15 +525,15 @@ other sources of variation (i.e., increased pollution from the
 surrounding area, introduction of invasive species, etc.). This
 experimental protocol is referred to as a BACI design (before-after,
 control-impact) and can be a powerful method for assessing the effects
-of a single treatment (Stewart-Oaten and Bence 2001); however, it is
+of a single treatment [@doi:10.2307/2657220]; however, it is
 inherently unreplicated. There is only one dammed river, and it is
 obviously unfeasible to dam more rivers to try to increase the number of
 replicates. This lack of replication does not imply that ecosystem-level
 or BACI studies are not informative; in fact, unreplicated studies may
 be highly valuable and are often the only way to study large, complex,
-or difficult-to-manipulate systems (Hurlbert 1984, Johnson 2002). The
+or difficult-to-manipulate systems [@doi:10.2307/1942661; doi:10.2307/3802926]. The
 important point is that researchers must be careful about generalizing
-results from an unreplicated study (Hurlbert 1984). The results from the
+results from an unreplicated study [@doi:10.2307/1942661]. The results from the
 BACI study described above may show that the fish community changed
 after dam construction, but the results apply only to the effects of
 that particular dam. Without replication, there is no way of assessing
@@ -547,7 +543,7 @@ effects of dams on fish communities.
 ## Controls
 
 The word “control” can apply to multiple different topics in
-experimental design (Johnson 2002). One of the most common uses is to
+experimental design [@doi:10.2307/3802926]. One of the most common uses is to
 refer to a control treatment, which is an experimental unit that has
 either received no treatment or a sham treatment. Proper control
 treatments are a critical component of experiments, as they provide a
@@ -694,7 +690,7 @@ patch of similar elevation. Implementing a blocked study design is a
 powerful method of accounting for known or hypothesized confounding
 variables in both experimental and observational studies, but can also
 help guard against extraneous variation from unforeseen environmental
-variation (Hurlbert 1984).
+variation [@doi:10.2307/1942661].
 
 Not all sources of extraneous variation can be easily controlled for
 through modifications of the study design, but many of these may be
@@ -738,23 +734,6 @@ interest; however, body size (as measured by wing length) and food
 abundance also affect survival.](statisticalcontrol.png)
 ![statisticalcontrol](https://user-images.githubusercontent.com/10168347/205140978-8162fd32-0ddd-4306-91db-8150ad0bdbaa.png)
 
-## References
-
-Heffner, R.A., Butler, M.J. and Reilly, C.K., 1996. Pseudoreplication
-revisited. Ecology, 77(8), pp.2558-2562.
-
-Hurlbert, S.H., 1984. Pseudoreplication and the design of ecological
-field experiments. Ecological monographs, 54(2), pp.187-211.
-
-Johnson, D.H., 2002. The importance of replication in wildlife research.
-The Journal of Wildlife Management, pp.919-932.
-
-Steidl, R.J. and Thomas, L., 2001. Power analysis and experimental
-design. Design and analysis of ecological experiments, 2, p.415.
-
-Stewart-Oaten, A. and Bence, J.R., 2001. Temporal and spatial variation
-in environmental impact assessment. Ecological monographs, 71(2),
-pp.305-339.
 
 
 ## Sampling
