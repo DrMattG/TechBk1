@@ -1,22 +1,27 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
+  {
+    "author": [
+      {
+        "family": "Steidl",
+        "given": "R.J."
+      }
+      {
+        "family": "Thomas",
+        "given": "L."
+      }
+    ],
+    "genre": "book",
+    "id": "steidl2001",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
       ]
-    ]
-  },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
-    }
-  ]
-}
+    },
+    "title": "Power analysis and experimental design",
+    "title-short": "Power",
+    "type": "book",
+    "URL": "https://ag.arizona.edu/~steidl/files/pdfs/Steidl%20and%20Thomas%202001.pdf"
+  }
 ]
