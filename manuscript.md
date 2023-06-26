@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/e908e6021394b8c0f43c434616fa1aac5a6a5415/))
+([permalink](https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/))
 was automatically generated
-from [DrMattG/TechBk1@e908e60](https://github.com/DrMattG/TechBk1/tree/e908e6021394b8c0f43c434616fa1aac5a6a5415)
+from [DrMattG/TechBk1@c5b2b06](https://github.com/DrMattG/TechBk1/tree/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b)
 on June 26, 2023.
 </em></small>
 
@@ -226,8 +226,8 @@ In the eyes of the general public it may be the **researchers** that come to min
 At the same time, there is a growing awareness in the scientific community of the need for interdisciplinary work that also makes use of what is often termed "expert knowledge" in scientific work [@doi:10.1016/j.jenvman.2018.04.025; @doi:10.3897/rethinkingecology.6.64103].  
 When used by a researcher, the term "expert" often refers to any non-researcher who possesses valuable knowledge (in the context of a study/problem). In wildlife research, this typically encompasses managers and citizen scientists, and sometimes also includes indigenous people. 
 **Wildlife managers**, occasionally also referred to as "end users", "decision makers", or "policy makers", are aware of the practical contexts framing wildlife research and often have a good grasp of both logistical and financial implications of different types of monitoring and management strategies and interventions [@doi:10.1016/j.jenvman.2018.04.025]. They may also possess a wealth of (qualitative) knowledge about focal species and ecosystems, as well as about motivations and interests of various other stakeholders in a system [@doi:10.1890/ES12-00415.1; @doi:10.1016/j.jenvman.2018.04.025].  
-Some **citizen scientists** (sometimes also called "community scientists") may possess similar knowledge, at least about the former, based on experiences from their extensive time spent observing, enjoying, and collecting data on species [@doi:10.1890/110278; @doi:10.1016/j.biocon.2016.05.015]. They may also have a good understanding of potential issues and challenges with data collection in the field [@doi:10.1890/110278]. Last but not least, citizen scientists represent a portion of the general public, and may contribute to debates and decision-making with viewpoints, priorities, and values that are central to a large number of people [@doi:10.1016/j.biocon.2016.05.015; binley2021].  
-**Indigenous people** have been living as part of and interacting with the natural environment since long before scientific research as we know it today was conducted [berkes2017]. As a consequence, indigenous communities hold intricate knowledge about their lands and waters which is tightly linked to their culture [jessen2022] and which often covers time spans necessary for understanding long-term ecological changes [e.g. savo2016]. Indigenous knowledge is, in many ways, complementary to ecological science and the involvement of indigenous people can lead to more impactful, effective, and just research and management [ban2018].  
+Some **citizen scientists** (sometimes also called "community scientists") may possess similar knowledge, at least about the former, based on experiences from their extensive time spent observing, enjoying, and collecting data on species [@doi:10.1890/110278; @doi:10.1016/j.biocon.2016.05.015]. They may also have a good understanding of potential issues and challenges with data collection in the field [@doi:10.1890/110278]. Last but not least, citizen scientists represent a portion of the general public, and may contribute to debates and decision-making with viewpoints, priorities, and values that are central to a large number of people [@doi:10.1016/j.biocon.2016.05.015; @doi:10.1111/csp2.376].  
+**Indigenous people** have been living as part of and interacting with the natural environment since long before scientific research as we know it today was conducted [berkes2017]. As a consequence, indigenous communities hold intricate knowledge about their lands and waters which is tightly linked to their culture [@doi:10.1002/fee.2435] and which often covers time spans necessary for understanding long-term ecological changes [e.g. @doi:10.1038/nclimate2958]. Indigenous knowledge is, in many ways, complementary to ecological science and the involvement of indigenous people can lead to more impactful, effective, and just research and management [@doi:10.1038/s41559-018-0706-0].  
 Notably, individuals may also belong to several of the categories introduced above. Wildlife managers, for example, may be actively doing research (or have done so in the past) and may also be collecting citizen science data in their free time. Indigenous people may hold central roles in conservation decision making. Some researchers may have indigenous backgrounds, etc. If anything, that only further enhances the diversity of knowledge surrounding wildlife research and management.
 
 

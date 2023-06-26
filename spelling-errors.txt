@@ -6,7 +6,6 @@ APCs
 arctos
 BACI
 berkes
-binley
 biogeographical
 Biogeography
 Biometrics
@@ -70,12 +69,11 @@ Informetr
 interspecific
 intraspecific
 JAMA
-jessen
 Kassim
 Krauss
 Kvern
 Ladouceur
-lek
+Lek
 leks
 leucopus
 Lewallen
