@@ -22,7 +22,6 @@ Cardiol
 carolinensis
 ccessibility
 Centrocercus
-cheruvelil
 Chloé
 ChloeRN
 clearcut
@@ -35,14 +34,12 @@ controllability
 covariate
 Cummins
 Detectability
-dommett
-drescher
 DrMattG
 Dunikowski
 eb
 EF
 elevational
-Elsevier
+ELSEVIER
 Elsevier’s
 envrionmental
 Erlend
@@ -58,7 +55,6 @@ funder
 Gagnon
 gamebirddoc
 GitLab
-gosselin
 Grainger
 gridded
 Handford
@@ -82,7 +78,7 @@ Kassim
 Krauss
 Kvern
 Ladouceur
-Lek
+lek
 leks
 leucopus
 Lewallen
@@ -92,13 +88,13 @@ Lubek
 macroura
 Menlo
 Multiauthored
-Nater
+nater
 Neilson
 neophobia
 Nephrol
 Nephrology
 Nicol
-nilsen
+Nilsen
 nonrandomly
 nteroperability
 Nurs
@@ -120,7 +116,7 @@ prestigiously
 priori
 PrOACT
 Proteome
-Pseudoreplication
+pseudoreplication
 Publ
 Publons
 purposively
@@ -134,7 +130,6 @@ Regenstein
 Rennie
 reproducibility
 Resh
-rubert
 SCImago
 Sciurus
 Seber
