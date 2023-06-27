@@ -24,8 +24,8 @@ study may also be helpful. Soliciting advice and review from experts can
 help to improve the design of a study and rectify any overlooked
 methodological issues before data collection starts. During this
 process, researchers should carefully consider the three cornerstones of
-experimental design (Johnson 2002): 1) Randomization, 2) Replication,
-and 3) Controls.
+experimental design \[@doi:10.2307/3802926\]: 1) Randomization, 2)
+Replication, and 3) Controls.
 
 ## Randomization
 
@@ -114,25 +114,25 @@ estimated by performing a prospective power analysis during the design
 phase. Power analyses estimate can estimate the minimum required sample
 size for a study based on two parameters: 1) the desired or expected
 magnitude of the difference between treatment groups, and 2) the
-expected variance between units within treatment group. See Steidl &
-Thomas (2001) for a detailed description of power analyses. The
-question, then, is how to estimate the expected variance and difference
-between treatment groups before collecting any data. Researchers can use
-estimates derived from published literature in a similar study system
-with the same or similar species. For example, researchers designing a
-study on the effects of predator removal on the survival of northern
-bobwhites in Iowa may be able to estimate the minimum number of
-radiotransmitters to deploy based on published estimates of the variance
-and survival of bobwhites in high-predator and low-predator habitats
-from Georgia. If time and funds are sufficient, researchers could also
-perform a small-scale test of the methods and data-collection procedures
-before the main study. These pilot studies are valuable for power
-analyses, as they collect preliminary data on the group means and
-variance that are likely to be observed in the main study. In addition
-to informing prospective power analyses, pilot studies also allow
-researchers to assess the feasibility of the study design and identify
-previously-overlooked methodological issues before the main study
-commences.
+expected variance between units within treatment group. See
+\[@doi:10.7326/0003-4819-99-2-269\] for a detailed description of power
+analyses. The question, then, is how to estimate the expected variance
+and difference between treatment groups before collecting any data.
+Researchers can use estimates derived from published literature in a
+similar study system with the same or similar species. For example,
+researchers designing a study on the effects of predator removal on the
+survival of northern bobwhites in Iowa may be able to estimate the
+minimum number of radiotransmitters to deploy based on published
+estimates of the variance and survival of bobwhites in high-predator and
+low-predator habitats from Georgia. If time and funds are sufficient,
+researchers could also perform a small-scale test of the methods and
+data-collection procedures before the main study. These pilot studies
+are valuable for power analyses, as they collect preliminary data on the
+group means and variance that are likely to be observed in the main
+study. In addition to informing prospective power analyses, pilot
+studies also allow researchers to assess the feasibility of the study
+design and identify previously-overlooked methodological issues before
+the main study commences.
 
     **Comment: I tried to keep the discussion of the power analyses simple here so I omitted discussing type I and II error rates (since those are set by the researcher in the design phase). I could bring them up, but would require a much more in-depth discussion. Are error rates brought up anywhere else? Also, I could add a section discussing how retrospective power analyses are not really valid, though this would require discussion of power.**
 
@@ -140,13 +140,13 @@ Though replication is imperative in scientific studies, researchers must
 be careful to avoid pseudoreplication. True experimental replicates are
 independent of each other; however, pseudoreplication occurs when
 measurements which are not independent are treated as independent in
-statistical analyses (Hurlbert 1984). The consequences of
+statistical analyses \[@doi:10.2307/1942661\]. The consequences of
 pseudoreplication include overestimating precision and falsely
-concluding that there is a treatment effect when there is none (Heffner
-et al. 1996). Preventing pseudoreplication requires correctly
-identifying the experimental unit of a study, which is the lowest
-experimental level in which units are independent from others. The
-experimental unit is the level at which the treatment is applied in
+concluding that there is a treatment effect when there is none
+\[@doi:10.2307/2265754\]. Preventing pseudoreplication requires
+correctly identifying the experimental unit of a study, which is the
+lowest experimental level in which units are independent from others.
+The experimental unit is the level at which the treatment is applied in
 experimental studies, though care must be taken when identifying the
 experimental unit in studies with multiple levels of treatments. Imagine
 a study where different herbicides are sprayed on a series of forest
@@ -227,29 +227,31 @@ other sources of variation (i.e., increased pollution from the
 surrounding area, introduction of invasive species, etc.). This
 experimental protocol is referred to as a BACI design (before-after,
 control-impact) and can be a powerful method for assessing the effects
-of a single treatment (Stewart-Oaten and Bence 2001); however, it is
-inherently unreplicated. There is only one dammed river, and it is
+of a single treatment
+\[@doi:10.1890/0012-9615(2001)071\[0305:TASVIE\]2.0.CO;2\]; however, it
+is inherently unreplicated. There is only one dammed river, and it is
 obviously unfeasible to dam more rivers to try to increase the number of
 replicates. This lack of replication does not imply that ecosystem-level
 or BACI studies are not informative; in fact, unreplicated studies may
 be highly valuable and are often the only way to study large, complex,
-or difficult-to-manipulate systems (Hurlbert 1984, Johnson 2002). The
-important point is that researchers must be careful about generalizing
-results from an unreplicated study (Hurlbert 1984). The results from the
-BACI study described above may show that the fish community changed
-after dam construction, but the results apply only to the effects of
-that particular dam. Without replication, there is no way of assessing
-if the results from this particular dam are reflective of general
-effects of dams on fish communities.
+or difficult-to-manipulate systems
+\[@doi:10.2307/1942661;@doi:10.2307/3802926\]. The important point is
+that researchers must be careful about generalizing results from an
+unreplicated study \[@doi:10.2307/1942661\]. The results from the BACI
+study described above may show that the fish community changed after dam
+construction, but the results apply only to the effects of that
+particular dam. Without replication, there is no way of assessing if the
+results from this particular dam are reflective of general effects of
+dams on fish communities.
 
 ## Controls
 
 The word “control” can apply to multiple different topics in
-experimental design (Johnson 2002). One of the most common uses is to
-refer to a control treatment, which is an experimental unit that has
-either received no treatment or a sham treatment. Proper control
-treatments are a critical component of experiments, as they provide a
-baseline value with which to compare results from experimental
+experimental design \[@doi:10.2307/3802926\]. One of the most common
+uses is to refer to a control treatment, which is an experimental unit
+that has either received no treatment or a sham treatment. Proper
+control treatments are a critical component of experiments, as they
+provide a baseline value with which to compare results from experimental
 treatments. If we are interested in determining how vegetation cover
 affects nest success of common pheasants (*Phasianus colchicus*), we
 could locate 30 nests, remove 50% of the vegetation within 2 m of the
@@ -362,21 +364,30 @@ insecticide application and habitat quality on vireo mass (Box 1.1 C),
 thereby leading us to correctly conclude that insecticide use has an
 effect on vireo body mass.
 
-![Figure 1.1. Example study designs distributing experimental (E) and
-control (C) study plots across patches varying in habitat quality.
-High-quality patches are green while low-quality plots are blue. Study
-designs differ in how they control for extraneous envrionmental
-variation: not accounting for envrionmental variation (A), accounting
-for environmental variation by restricting the effects to a single level
-of habitat quality (B), or accounting for environmental variation
-through blocking across levels of habitat quality
-(C).](BlockingFigure.png)
+<figure>
+<img src="BlockingFigure.png"
+alt="Figure 1.1. Example study designs distributing experimental (E) and control (C) study plots across patches varying in habitat quality. High-quality patches are green while low-quality plots are blue. Study designs differ in how they control for extraneous envrionmental variation: not accounting for envrionmental variation (A), accounting for environmental variation by restricting the effects to a single level of habitat quality (B), or accounting for environmental variation through blocking across levels of habitat quality (C)." />
+<figcaption aria-hidden="true">Figure 1.1. Example study designs
+distributing experimental (E) and control (C) study plots across patches
+varying in habitat quality. High-quality patches are green while
+low-quality plots are blue. Study designs differ in how they control for
+extraneous envrionmental variation: not accounting for envrionmental
+variation (A), accounting for environmental variation by restricting the
+effects to a single level of habitat quality (B), or accounting for
+environmental variation through blocking across levels of habitat
+quality (C).</figcaption>
+</figure>
 
-![Box 1.1. Example R-code showing the effects of controlling variation
-through restricting sampling and blocking. In this example, we wish to
-assess the effects of insecticides on the body mass of red-eyed vireos
-(Vireo olivaceus). Study plots are distributed across 8 different forest
-patches which vary in habitat quality.](blocking.png)
+<figure>
+<img src="blocking.png"
+alt="Box 1.1. Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality." />
+<figcaption aria-hidden="true">Box 1.1. Example R-code showing the
+effects of controlling variation through restricting sampling and
+blocking. In this example, we wish to assess the effects of insecticides
+on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are
+distributed across 8 different forest patches which vary in habitat
+quality.</figcaption>
+</figure>
 
 Blocking is not just valuable for experimental studies, but should be
 carefully considered when designing observational studies as well.
@@ -390,7 +401,7 @@ patch of similar elevation. Implementing a blocked study design is a
 powerful method of accounting for known or hypothesized confounding
 variables in both experimental and observational studies, but can also
 help guard against extraneous variation from unforeseen environmental
-variation (Hurlbert 1984).
+variation \[@doi:10.2307/1942661\].
 
 Not all sources of extraneous variation can be easily controlled for
 through modifications of the study design, but many of these may be
@@ -427,26 +438,12 @@ possible. It is generally better to collect extra data that ultimately
 is not used then it is to collect insufficient data and end up regret it
 later.
 
-![Box 1.2. Example R-code for controlling extraneous variation during
-statistical analyses. In this example, age-related differences in
-late-summer of survival of mourning doves (Zenaida macroura) are of
-interest; however, body size (as measured by wing length) and food
-abundance also affect survival.](statisticalcontrol.png)
-
-## References
-
-Heffner, R.A., Butler, M.J. and Reilly, C.K., 1996. Pseudoreplication
-revisited. Ecology, 77(8), pp.2558-2562.
-
-Hurlbert, S.H., 1984. Pseudoreplication and the design of ecological
-field experiments. Ecological monographs, 54(2), pp.187-211.
-
-Johnson, D.H., 2002. The importance of replication in wildlife research.
-The Journal of Wildlife Management, pp.919-932.
-
-Steidl, R.J. and Thomas, L., 2001. Power analysis and experimental
-design. Design and analysis of ecological experiments, 2, p.415.
-
-Stewart-Oaten, A. and Bence, J.R., 2001. Temporal and spatial variation
-in environmental impact assessment. Ecological monographs, 71(2),
-pp.305-339.
+<figure>
+<img src="statisticalcontrol.png"
+alt="Box 1.2. Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival." />
+<figcaption aria-hidden="true">Box 1.2. Example R-code for controlling
+extraneous variation during statistical analyses. In this example,
+age-related differences in late-summer of survival of mourning doves
+(Zenaida macroura) are of interest; however, body size (as measured by
+wing length) and food abundance also affect survival.</figcaption>
+</figure>
