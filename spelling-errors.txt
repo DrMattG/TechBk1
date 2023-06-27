@@ -10,7 +10,6 @@ biogeographical
 Biogeography
 Biometrics
 Biostatistical
-BlockingFigure
 Bonasa
 Bornmann
 Breslin
@@ -37,7 +36,7 @@ Dunikowski
 eb
 EF
 elevational
-Elsevier
+ELSEVIER
 Elsevier’s
 envrionmental
 Erlend
@@ -83,13 +82,13 @@ Lubek
 macroura
 Menlo
 Multiauthored
-nater
+Nater
 Neilson
 neophobia
 Nephrol
 Nephrology
 Nicol
-nilsen
+Nilsen
 nonrandomly
 nteroperability
 Nurs
@@ -121,6 +120,7 @@ Radiol
 radiotransmitters
 Rahman
 Ramsden
+Rcode
 Regenstein
 Rennie
 reproducibility
@@ -134,7 +134,6 @@ Siegel
 SJR
 spharsh
 Sprih
-statisticalcontrol
 steidl
 subunit
 subunits

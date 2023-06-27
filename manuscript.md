@@ -5,7 +5,7 @@ keywords:
 - publishing
 - open science
 lang: en-US
-date-meta: '2023-06-26'
+date-meta: '2023-06-27'
 author-meta:
 - James Martin
 - Matthew J. Grainger
@@ -24,8 +24,8 @@ header-includes: |-
   <meta name="citation_title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="og:title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="twitter:title" content="Chapter 1: Management, Research and Experimental Design" />
-  <meta name="dc.date" content="2023-06-26" />
-  <meta name="citation_publication_date" content="2023-06-26" />
+  <meta name="dc.date" content="2023-06-27" />
+  <meta name="citation_publication_date" content="2023-06-27" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,10 +89,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b/))
+([permalink](https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/))
 was automatically generated
-from [DrMattG/TechBk1@c5b2b06](https://github.com/DrMattG/TechBk1/tree/c5b2b06b723ae63dda1b53f1109ef59f2ee6590b)
-on June 26, 2023.
+from [DrMattG/TechBk1@f02c5ae](https://github.com/DrMattG/TechBk1/tree/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69)
+on June 27, 2023.
 </em></small>
 
 ## Authors
@@ -242,8 +242,6 @@ Robust decision-making based on diverse knowledge thus requires workflows that a
 ### Open and accessible workflows
 
 When considering research workflows, we often only think of the steps connecting data and results. However, complete workflows in wildife research and management begin with planning and implementation of monitoring and end with reporting, decision making, and evaluation. Knowledge is built incrementally, and workflows should therefore also be thought of as cycles where newly gained information and results from evaluation feed back into earlier steps (e.g. sensu adaptive management, @williams2011; @nichols2015). 
-
-![Schematic overview of the components of open and accessible workflows for wildlife research and decision-making.](./images/OpenWorkflows_Chart.png)  
 
 <br/>
 
@@ -668,7 +666,7 @@ are grouped into relatively homogeneous units. If we think that patches
 differ in habitat quality, and these differences may introduce
 extraneous variation into our analysis, we can treat each forest patch
 as a “block” and distribute control and experimental treatments randomly
-within each block (Figure 1.1 C). Distributing control and experimental
+within each block (@fig:blocking). Distributing control and experimental
 treatments evenly across blocks ensures that the effect of the block on
 the response variable is evenly distributed across treatments. Moreover,
 we can account for the variation introduced by the block during
@@ -678,23 +676,10 @@ insecticide application and habitat quality on vireo mass (Box 1.1 C),
 thereby leading us to correctly conclude that insecticide use has an
 effect on vireo body mass.
 
-![Figure 1.1. Example study designs distributing experimental (E) and
-control (C) study plots across patches varying in habitat quality.
-High-quality patches are green while low-quality plots are blue. Study
-designs differ in how they control for extraneous envrionmental
-variation: not accounting for envrionmental variation (A), accounting
-for environmental variation by restricting the effects to a single level
-of habitat quality (B), or accounting for environmental variation
-through blocking across levels of habitat quality
-(C).](BlockingFigure.png)
-![BlockingFigure](https://user-images.githubusercontent.com/10168347/205140795-c086b739-3f27-41cc-a76a-5ee9aa4a3835.png)
+### Box 1 {#Rcode}
 
-![Box 1.1. Example R-code showing the effects of controlling variation
-through restricting sampling and blocking. In this example, we wish to
-assess the effects of insecticides on the body mass of red-eyed vireos
-(Vireo olivaceus). Study plots are distributed across 8 different forest
-patches which vary in habitat quality.](blocking.png)
-![blocking](https://user-images.githubusercontent.com/10168347/205140839-3a1c644e-d6b7-4203-83b3-9522afb4d816.png)
+@fig:Rcode
+
 
 Blocking is not just valuable for experimental studies, but should be
 carefully considered when designing observational studies as well.
@@ -745,12 +730,9 @@ possible. It is generally better to collect extra data that ultimately
 is not used then it is to collect insufficient data and end up regret it
 later.
 
-![Box 1.2. Example R-code for controlling extraneous variation during
-statistical analyses. In this example, age-related differences in
-late-summer of survival of mourning doves (Zenaida macroura) are of
-interest; however, body size (as measured by wing length) and food
-abundance also affect survival.](statisticalcontrol.png)
-![statisticalcontrol](https://user-images.githubusercontent.com/10168347/205140978-8162fd32-0ddd-4306-91db-8150ad0bdbaa.png)
+### Box 1.2 
+
+@fig:Rcode2
 
 
 
@@ -955,11 +937,39 @@ Having an established, professional social media presence on platforms such as T
 
 ## Figures {.page_break_before}
 
-![![Schematic overview of the components of open and accessible workflows for wildlife research and decision-making.](images/OpenWorkflows_Chart.png){#fig:openworkflow-diagram}
+![Schematic overview of the components of open and accessible workflows for wildlife research and decision-making.](images/OpenWorkflows_Chart.png){#fig:openworkflow-diagram}
 
 <!--Reference this figure in text like this (Figure @fig:openworkflow-diagram).-->
 
+![Example study designs distributing experimental (E) and
+control (C) study plots across patches varying in habitat quality.
+High-quality patches are green while low-quality plots are blue. Study
+designs differ in how they control for extraneous envrionmental
+variation: not accounting for envrionmental variation (A), accounting
+for environmental variation by restricting the effects to a single level
+of habitat quality (B), or accounting for environmental variation
+through blocking across levels of habitat quality
+(C).](images/BlockingFigure.png){#fig:blocking}
 
+<!--Reference this figure in text like this (Figure @fig:blocking).-->
+
+
+![Example R-code showing the effects of controlling variation
+through restricting sampling and blocking. In this example, we wish to
+assess the effects of insecticides on the body mass of red-eyed vireos
+(Vireo olivaceus). Study plots are distributed across 8 different forest
+patches which vary in habitat quality.](images/Rcode.png) {#fig:Rcode}
+
+<!--Reference this figure in text like this (Figure @fig:Rcode).-->
+
+
+![Example R-code for controlling extraneous variation during
+statistical analyses. In this example, age-related differences in
+late-summer of survival of mourning doves (Zenaida macroura) are of
+interest; however, body size (as measured by wing length) and food
+abundance also affect survival.](images/Rcode2.png) {#fig:Rcode2}
+
+<!--Reference this figure in text like this (Figure @fig:Rcode2).-->
 
 ## Tables
 
