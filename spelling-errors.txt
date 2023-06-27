@@ -36,7 +36,7 @@ Dunikowski
 eb
 EF
 elevational
-Elsevier
+ELSEVIER
 Elsevier’s
 envrionmental
 Erlend
@@ -82,7 +82,7 @@ Lubek
 macroura
 Menlo
 Multiauthored
-Nater
+nater
 Neilson
 neophobia
 Nephrol
