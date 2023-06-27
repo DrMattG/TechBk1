@@ -91,9 +91,9 @@
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/29a1f0dfe7371b4978354f2721f4a49c71f59e31/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/29a1f0dfe7371b4978354f2721f4a49c71f59e31/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/29a1f0dfe7371b4978354f2721f4a49c71f59e31/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -110,9 +110,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://DrMattG.github.io/TechBk1/v/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69/">permalink</a>)
+(<a href="https://DrMattG.github.io/TechBk1/v/29a1f0dfe7371b4978354f2721f4a49c71f59e31/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/DrMattG/TechBk1/tree/f02c5ae3d9c1d7a3040f1082563c02ee13f11e69">DrMattG/TechBk1@f02c5ae</a>
+from <a href="https://github.com/DrMattG/TechBk1/tree/29a1f0dfe7371b4978354f2721f4a49c71f59e31">DrMattG/TechBk1@29a1f0d</a>
 on June 27, 2023.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -227,7 +227,10 @@ Robust decision-making based on diverse knowledge thus requires workflows that a
 <h3 id="open-and-accessible-workflows">Open and accessible workflows</h3>
 <p>When considering research workflows, we often only think of the steps connecting data and results. However, complete workflows in wildife research and management begin with planning and implementation of monitoring and end with reporting, decision making, and evaluation. Knowledge is built incrementally, and workflows should therefore also be thought of as cycles where newly gained information and results from evaluation feed back into earlier steps (e.g. sensu adaptive management, <span class="citation" data-cites="williams2011">[<a href="#ref-williams2011" role="doc-biblioref"><strong>williams2011?</strong></a>]</span>; <span class="citation" data-cites="nichols2015">[<a href="#ref-nichols2015" role="doc-biblioref"><strong>nichols2015?</strong></a>]</span>).</p>
 <p><br/></p>
-<p><a href="#fig:openworkflow-diagram">1</a> gives an overview over the main components of open and accessible workflows.</p>
+<p>Figure <a href="#fig:openworkflow-diagram">1</a> gives an overview over the main components of open and accessible workflows.</p>
+<figure>
+<img src="images/OpenWorkflows_chart.png" />
+</figure>
 <p>It starts with data collection and hence with <strong>monitoring protocols</strong>, which should be openly accessible and documented in a way that they can be understood and – in theory – re-produced/re-implemented by independent parties.<br />
 The outcome of monitoring is recorded <strong>raw data</strong>, which should be made available publicly if possible and ideally adhere to FAIR (<em>F</em>indabilty, <em>A</em>ccessibility, <em>I</em>nteroperability, <em>R</em>eusability) and/or CARE (<em>C</em>ollective benefit, <em>A</em>uthority to control, <em>R</em>esponsibility, and <em>E</em>thics) data principles <span class="citation" data-cites="wilkinson2016 carroll2020 carroll2021">[<a href="#ref-wilkinson2016" role="doc-biblioref"><strong>wilkinson2016?</strong></a>,<a href="#ref-carroll2020" role="doc-biblioref"><strong>carroll2020?</strong></a>,<a href="#ref-carroll2021" role="doc-biblioref"><strong>carroll2021?</strong></a>]</span>. Data needs to be supplemented with appropriate and standardized <strong>metadata</strong> to communicate both the structure and content of the data itself, and how it has been generated (i.e. how it is linked to the monitoring protocol).<br />
 The process to get from raw data to results typically consists of several steps, e.g. data cleaning, data wrangling/reformatting, data analysis, visualization of results, etc. These steps are implemented using some sort of <strong>code</strong> (manual steps, such as data editing/reformatting in Excel, are best avoided). All code should be well documented, reproducible, and version controlled <span class="citation" data-cites="cooper2017">[see <a href="#ref-cooper2017" role="doc-biblioref"><strong>cooper2017?</strong></a> for a guide]</span> and made available via an appropriate repository such as GitHub, GitLab, etc. Formal code review, as is common in e.g. software development, is also a great tool to enhance reproducibility and overall quality of code <span class="citation" data-cites="ivimey2023">[<a href="#ref-ivimey2023" role="doc-biblioref"><strong>ivimey2023?</strong></a>]</span>.<br />
@@ -807,15 +810,7 @@ If no doi then add to the manual-references.json file -->
 <div id="fig:blocking" class="fignos">
 <figure>
 <img src="images/BlockingFigure.png" alt="Figure 2: Example study designs distributing experimental (E) and control (C) study plots across patches varying in habitat quality. High-quality patches are green while low-quality plots are blue. Study designs differ in how they control for extraneous envrionmental variation: not accounting for envrionmental variation (A), accounting for environmental variation by restricting the effects to a single level of habitat quality (B), or accounting for environmental variation through blocking across levels of habitat quality (C)." />
-<figcaption aria-hidden="true"><span>Figure 2:</span> Example study designs distributing experimental (E) and
-control (C) study plots across patches varying in habitat quality.
-High-quality patches are green while low-quality plots are blue. Study
-designs differ in how they control for extraneous envrionmental
-variation: not accounting for envrionmental variation (A), accounting
-for environmental variation by restricting the effects to a single level
-of habitat quality (B), or accounting for environmental variation
-through blocking across levels of habitat quality
-(C).</figcaption>
+<figcaption aria-hidden="true"><span>Figure 2:</span> Example study designs distributing experimental (E) and control (C) study plots across patches varying in habitat quality. High-quality patches are green while low-quality plots are blue. Study designs differ in how they control for extraneous envrionmental variation: not accounting for envrionmental variation (A), accounting for environmental variation by restricting the effects to a single level of habitat quality (B), or accounting for environmental variation through blocking across levels of habitat quality (C).</figcaption>
 </figure>
 </div>
 <!--Reference this figure in text like this (Figure @fig:blocking).-->

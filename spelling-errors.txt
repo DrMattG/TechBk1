@@ -36,7 +36,7 @@ Dunikowski
 eb
 EF
 elevational
-ELSEVIER
+Elsevier
 Elsevier’s
 envrionmental
 Erlend
@@ -72,7 +72,7 @@ Kassim
 Krauss
 Kvern
 Ladouceur
-Lek
+lek
 leks
 leucopus
 Lewallen
@@ -88,7 +88,7 @@ neophobia
 Nephrol
 Nephrology
 Nicol
-Nilsen
+nilsen
 nonrandomly
 nteroperability
 Nurs
