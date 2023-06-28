@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/DrMattG/TechBk1/tree/gh-pages) branch hosts the contents of this directory at <https://DrMattG.github.io/TechBk1/>.
-The permalink for this webpage version is <https://DrMattG.github.io/TechBk1/v/4497ccd6daa41ff47d8653930282f8dc33b94d6a/>.
+The permalink for this webpage version is <https://DrMattG.github.io/TechBk1/v/e1993deebe3e6190a79bf7880dbda900686ebe99/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://DrMattG.github.io/TechBk1/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`4497ccd6daa41ff47d8653930282f8dc33b94d6a`](https://github.com/DrMattG/TechBk1/commit/4497ccd6daa41ff47d8653930282f8dc33b94d6a).
+[`e1993deebe3e6190a79bf7880dbda900686ebe99`](https://github.com/DrMattG/TechBk1/commit/e1993deebe3e6190a79bf7880dbda900686ebe99).
