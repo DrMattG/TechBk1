@@ -2,26 +2,104 @@
   {
     "author": [
       {
-        "family": "Steidl",
-        "given": "R.J."
-      }
-      {
-        "family": "Thomas",
-        "given": "L."
+        "family": "Cohran",
+        "given": "W.G."
       }
     ],
     "genre": "book",
-    "id": "steidl2001",
+    "id": "cohran1963",
     "issued": {
-      "date-parts": [
-        [
-          2001
-        ]
-      ]
+      "date-parts": [[1963]]
     },
-    "title": "Power analysis and experimental design",
-    "title-short": "Power",
+    "title": "Sampling Techniques",
+    "title-short": "Sampling",
     "type": "book",
-    "URL": "https://ag.arizona.edu/~steidl/files/pdfs/Steidl%20and%20Thomas%202001.pdf"
+    "publisher": "New York: John Wiley and Sons, Inc."
+  },
+  {
+    "author": [
+      {
+        "family": "Krebs",
+        "given": "C.J."
+      }
+    ],
+    "genre": "book",
+    "id": "krebs1999",
+    "issued": {
+      "date-parts": [[1999]]
+    },
+    "title": "Ecological Methodology",
+    "title-short": "Methodology",
+    "type": "book",
+    "publisher": "Benjamin Cummins, Menlo Park, California, USA"
+  },
+
+  {
+    "author": [
+      {
+        "family": "Thompson",
+        "given": "S.K."
+      },
+      {
+        "family": "Seber",
+        "given": "G.A.F."
+      }
+    ],
+    "genre": "Research Article",
+    "id": "thompson&saber1994",
+    "issued": {
+      "date-parts": [[1994]]
+    },
+    "title": "Detectability in conventional and adaptive sampling",
+    "title-short": "adaptive sampling",
+    "type": "article",
+    "journal": {
+      "name": "Biometrics",
+      "volume": "50",
+      "pages": "713-724"
+    }
+  },
+
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "B.K."
+      },
+      {
+        "family": "Nichols",
+        "given": "J.D."
+      },
+      {
+        "family": "Conroy",
+        "given": "M.J."
+      }
+    ],
+    "genre": "book",
+    "id": "williams2002",
+    "issued": {
+      "date-parts": [[2002]]
+    },
+    "title": "Analysis and Management of Animal Populations",
+    "title-short": "animal population",
+    "type": "book",
+    "publisher": "Academic, San Diego, California, USA"
+  },
+  {
+    "author": [
+      {
+        "family": "Zar",
+        "given": "J.H."
+      }
+    ],
+    "genre": "book",
+    "id": "Zar1999",
+    "issued": {
+      "date-parts": [[1999]]
+    },
+    "title": "Biostatistical Analysis",
+    "title-short": "biostatistic",
+    "type": "book",
+    "publisher": "Prentice/ Hall, Upper Saddle River, New Jersey"
   }
 ]
