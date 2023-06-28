@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/2b1064a69986f02147718260535fa53c7b5c4150/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/2b1064a69986f02147718260535fa53c7b5c4150/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/2b1064a69986f02147718260535fa53c7b5c4150/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/4497ccd6daa41ff47d8653930282f8dc33b94d6a/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/4497ccd6daa41ff47d8653930282f8dc33b94d6a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/4497ccd6daa41ff47d8653930282f8dc33b94d6a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/2b1064a69986f02147718260535fa53c7b5c4150/))
+([permalink](https://DrMattG.github.io/TechBk1/v/4497ccd6daa41ff47d8653930282f8dc33b94d6a/))
 was automatically generated
-from [DrMattG/TechBk1@2b1064a](https://github.com/DrMattG/TechBk1/tree/2b1064a69986f02147718260535fa53c7b5c4150)
+from [DrMattG/TechBk1@4497ccd](https://github.com/DrMattG/TechBk1/tree/4497ccd6daa41ff47d8653930282f8dc33b94d6a)
 on June 28, 2023.
 </em></small>
 
@@ -950,11 +950,11 @@ Having an established, professional social media presence on platforms such as T
 
 <!--Reference this figure in text like this (Figure @fig:blocking).-->
 
-![Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality.](images/Rcode.png) {#fig:Rcode}
+![Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality.](images/Rcode.png){#fig:Rcode}
 
 <!--Reference this figure in text like this (Figure @fig:Rcode).-->
 
-![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png) {#fig:Rcode2}
+![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png){#fig:Rcode2}
 
 <!--Reference this figure in text like this (Figure @fig:Rcode2).-->
 

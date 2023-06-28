@@ -71,7 +71,7 @@ Kassim
 Krauss
 Kvern
 Ladouceur
-Lek
+lek
 leks
 leucopus
 Lewallen
@@ -81,13 +81,13 @@ Lubek
 macroura
 Menlo
 Multiauthored
-nater
+Nater
 Neilson
 neophobia
 Nephrol
 Nephrology
 Nicol
-Nilsen
+nilsen
 nonrandomly
 nteroperability
 Nurs
