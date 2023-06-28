@@ -5,7 +5,6 @@ Annu
 APCs
 arctos
 BACI
-berkes
 biogeographical
 Biogeography
 Biometrics
@@ -72,7 +71,7 @@ Kassim
 Krauss
 Kvern
 Ladouceur
-lek
+Lek
 leks
 leucopus
 Lewallen
@@ -154,7 +153,6 @@ urophasianus
 Ursus
 uthority
 victorianolan
-vincente
 virginianus
 Warnell
 wblewis
