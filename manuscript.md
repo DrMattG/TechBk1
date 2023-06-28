@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/cf731d4a1464f1d506e566446fa770d10c048a45/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/cf731d4a1464f1d506e566446fa770d10c048a45/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/cf731d4a1464f1d506e566446fa770d10c048a45/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/))
+([permalink](https://DrMattG.github.io/TechBk1/v/cf731d4a1464f1d506e566446fa770d10c048a45/))
 was automatically generated
-from [DrMattG/TechBk1@c2584fc](https://github.com/DrMattG/TechBk1/tree/c2584fce51669afc7d9d005f6bcf312e94f5068c)
+from [DrMattG/TechBk1@cf731d4](https://github.com/DrMattG/TechBk1/tree/cf731d4a1464f1d506e566446fa770d10c048a45)
 on June 28, 2023.
 </em></small>
 
@@ -553,7 +553,7 @@ obviously unfeasible to dam more rivers to try to increase the number of
 replicates. This lack of replication does not imply that ecosystem-level
 or BACI studies are not informative; in fact, unreplicated studies may
 be highly valuable and are often the only way to study large, complex,
-or difficult-to-manipulate systems [@doi:10.2307/1942661; doi:10.2307/3802926]. The
+or difficult-to-manipulate systems [@doi:10.2307/1942661; @doi:10.2307/3802926]. The
 important point is that researchers must be careful about generalizing
 results from an unreplicated study [@doi:10.2307/1942661]. The results from the
 BACI study described above may show that the fish community changed
@@ -716,7 +716,7 @@ adult doves in each food/size class to provide adequate replication.
 Food availability and size are also continuous variables, so it is more
 appropriate to treat them as such in the analyses. In contrast to
 blocking designs, these continuous extraneous variables can easily be
-controlled for in statistical models (Box 1.2). Similarly, the
+controlled for in statistical models (Box 5.2). Similarly, the
 probability of detecting individuals during a survey is often dependent
 on environmental conditions. When performing avian point counts, for
 example, the probability of birds singing and being detected by
