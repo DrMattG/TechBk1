@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c14eb54cb61ca6fa39dc890d9238630427ccf5b2/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c14eb54cb61ca6fa39dc890d9238630427ccf5b2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c14eb54cb61ca6fa39dc890d9238630427ccf5b2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/c14eb54cb61ca6fa39dc890d9238630427ccf5b2/))
+([permalink](https://DrMattG.github.io/TechBk1/v/c2584fce51669afc7d9d005f6bcf312e94f5068c/))
 was automatically generated
-from [DrMattG/TechBk1@c14eb54](https://github.com/DrMattG/TechBk1/tree/c14eb54cb61ca6fa39dc890d9238630427ccf5b2)
+from [DrMattG/TechBk1@c2584fc](https://github.com/DrMattG/TechBk1/tree/c2584fce51669afc7d9d005f6bcf312e94f5068c)
 on June 28, 2023.
 </em></small>
 
@@ -636,14 +636,13 @@ variables of interest. Imagine that we wish to assess insecticide
 spraying affects the body condition of a forest-dwelling insectivorous
 songbird: the red-eyed vireo (*Vireo olivaceus*). Our study takes place
 in a heterogeneous landscape with forest patches surrounded by
-non-forest (Figure 1.1) . We identify 28 study plots scattered among the
-8 forest patches, 14 of which we randomly assign to the experimental
-group and 14 of which we randomly assign to the control group. We fly a
-helicopter over each study plot, spraying insecticides over experimental
-plots and water over control plots. We capture and weigh vireos in every
-study plot two weeks after spraying. WE then calculate the average vireo
-mass for each plot. This study design incorporates randomization,
-replication, and an appropriate control treatment; however, many
+non-forest (@fig:blocking). 
+
+
+![Example study designs distributing experimental (E) and control (C) study plots across patches varying in habitat quality. High-quality patches are green while low-quality plots are blue. Study designs differ in how they control for extraneous envrionmental variation: not accounting for envrionmental variation (A), accounting for environmental variation by restricting the effects to a single level of habitat quality (B), or accounting for environmental variation through blocking across levels of habitat quality (C).](images/BlockingFigure.png){#fig:blocking}
+
+
+We identify 28 study plots scattered among the 8 forest patches, 14 of which we randomly assign to the experimental group and 14 of which we randomly assign to the control group. We fly a helicopter over each study plot, spraying insecticides over experimental plots and water over control plots. We capture and weigh vireos in every study plot two weeks after spraying. We then calculate the average vireo mass for each plot. This study design incorporates randomization,replication, and an appropriate control treatment; however, many
 environmental variables may affect the body mass of vireos besides just
 the insecticide treatment. Maybe some forest patches are lower-quality
 habitat for vireos than are others (naturally lower food levels, higher
@@ -652,9 +651,9 @@ poor-quality habitats might be expected to have lower body mass than
 birds in high-quality habitats regardless of the insecticide treatment.
 If we do not account for this confounding variable, then we may find
 that the majority of control or treatment plots are located in
-poor-quality habitats just by random chance (Figure 1.1 A). This would
+poor-quality habitats just by random chance (@fig:blocking A). This would
 lead us to erroneously conclude that insecticide application does not
-affect vireo mass (Box 1.1 A) simply because the effect of the
+affect vireo mass (@fig:Rcode A) simply because the effect of the
 insecticide treatment is conflated with the effect of habitat quality.
 Researchers must always consider potential sources of extraneous
 variation and how these can be controlled for when designing studies.
@@ -663,7 +662,7 @@ Sources of extraneous variation can be controlled for statistically or
 through modifications of the study design. In the vireo example, the
 extraneous effect of habitat quality could be removed from analysis by
 modifying the study design to only sample in either high-quality or
-low-quality habitats (Figure 1.1 B, Box 1.1 B). This method of
+low-quality habitats (@fig:blocking, @fig:Rcode). This method of
 restricted sampling may be impractical in many cases, especially if the
 number of possible sampling locations is small relative to the number of
 confounding environmental gradients. Extraneous variables may also be
@@ -678,14 +677,13 @@ the response variable is evenly distributed across treatments. Moreover,
 we can account for the variation introduced by the block during
 statistical analyses. Including habitat quality as a covariate in the
 statistical model allows us to separately estimate the effects of
-insecticide application and habitat quality on vireo mass (Box 1.1 C),
+insecticide application and habitat quality on vireo mass (@fig:Rcode),
 thereby leading us to correctly conclude that insecticide use has an
 effect on vireo body mass.
 
-### Box 1 {#Rcode}
+### Box 5.1 {#Rcode}
 
-@fig:Rcode
-
+![Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality.](images/Rcode.png) {#fig:Rcode}
 
 Blocking is not just valuable for experimental studies, but should be
 carefully considered when designing observational studies as well.
@@ -736,9 +734,10 @@ possible. It is generally better to collect extra data that ultimately
 is not used then it is to collect insufficient data and end up regret it
 later.
 
-### Box 1.2 
+### Box 5.2 {#Rcode2}
 
-@fig:Rcode2
+![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png) {#fig:Rcode2}
+
 
 
 
