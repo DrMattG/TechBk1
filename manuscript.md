@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/92817e3b0f77dbc803017558a6e5fc2a1bfb630c/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/92817e3b0f77dbc803017558a6e5fc2a1bfb630c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/92817e3b0f77dbc803017558a6e5fc2a1bfb630c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/))
+([permalink](https://DrMattG.github.io/TechBk1/v/92817e3b0f77dbc803017558a6e5fc2a1bfb630c/))
 was automatically generated
-from [DrMattG/TechBk1@b984440](https://github.com/DrMattG/TechBk1/tree/b98444018f5468ff263609c5c79b15ca2b0f95b2)
+from [DrMattG/TechBk1@92817e3](https://github.com/DrMattG/TechBk1/tree/92817e3b0f77dbc803017558a6e5fc2a1bfb630c)
 on June 30, 2023.
 </em></small>
 
@@ -747,19 +747,21 @@ If no doi then add to the manual-references.json file -->
 
 The ecological question often revolves around measuring relevant biological variables (survival, density, etc.) on items (like populations, species, subspecies, etc.) of interest in the system under study. In these questions, researchers conduct studies to obtain accurate estimates of characteristics that are important for management and conservation decisions. A vast amount of literature on the subject of **sampling or finite population sampling** (@cochran1963) exists to help researchers in planning these studies.
 
-The set of all possible individuals from which processes and patterns are to be deduced is called the **target population**. Rarely in any ecological studies, a census of the population is possible. Even in the case of rare and critically endangered species (less in number) or the case of immobile organisms like plants, collecting data from the whole population can be impossible. Thus, in most cases, researchers study a **subset of the population (sample)** and use collected information to draw inferences about the target population. The sample therefore can be described as a group of individuals who participate in research and represent the whole population. In more scientific terms, a sample is a subset of a population randomly selected based on some probabilistic design. In ecological studies, we often hear the term **sampling frame (or study area)**. To efficiently design these studies, it is necessary to understand what this term means. It is a finite set of all individuals that could be measured, and we can use different sampling schemes to obtain items from this frame. The sampling frame usually coincides with the target population, but reasons like accessibility, logistics, budget, etc. can make it differ otherwise. From this sampling frame, we draw a subset or sample of individuals, the **sampling units**, and the items to be measured for different biological variables. Sampling units should be distinct and easy to define (Box 1, Fig. 1). Target population does not always mean the number of animals. It can also be described in terms of geographic area, in which case, the sampling unit would be grids or township or county depending on the research question.
+The set of all possible individuals from which processes and patterns are to be deduced is called the **target population**. Rarely in any ecological studies, a census of the population is possible. Even in the case of rare and critically endangered species (less in number) or the case of immobile organisms like plants, collecting data from the whole population can be impossible. Thus, in most cases, researchers study a **subset of the population (sample)** and use collected information to draw inferences about the target population. The sample therefore can be described as a group of individuals who participate in research and represent the whole population. In more scientific terms, a sample is a subset of a population randomly selected based on some probabilistic design. In ecological studies, we often hear the term **sampling frame (or study area)**. To efficiently design these studies, it is necessary to understand what this term means. It is a finite set of all individuals that could be measured, and we can use different sampling schemes to obtain items from this frame. The sampling frame usually coincides with the target population, but reasons like accessibility, logistics, budget, etc. can make it differ otherwise. From this sampling frame, we draw a subset or sample of individuals, the **sampling units**, and the items to be measured for different biological variables. Sampling units should be distinct and easy to define [@fig:Box6.1, @fig:Fig6.1]. Target population does not always mean the number of animals. It can also be described in terms of geographic area, in which case, the sampling unit would be grids or township or county depending on the research question.
 
 Sampling is a critical part of both descriptive and experimental studies. All field studies require appropriate sampling designs to reduce variation among observations in the study. The choice of sampling method will depend on the objectives of the study, the distribution, and characteristics of the population being sampled among many other factors.
 
 
 ![Box 6.1](images/Box6.1.png) {#fig:Box6.1} 
 
+
+
 ![A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.](images/Fig6.1.png){#fig:Fig6.1}
 
 
 ### Probability and non-probability sampling methods
 
-For a sample to correctly represent a population, we need to properly identify the target population, followed by identifying the sampling frame, sampling units, and sampling technique. We should also be cautious about resource availability-manpower, logistics, time, etc. So, the next question here is how to draw a sample. There are mainly two types of sampling methods: probability and non-probability sampling. These designs differ in terms of the quality of parameter estimates (Box 2).
+For a sample to correctly represent a population, we need to properly identify the target population, followed by identifying the sampling frame, sampling units, and sampling technique. We should also be cautious about resource availability-manpower, logistics, time, etc. So, the next question here is how to draw a sample. There are mainly two types of sampling methods: probability and non-probability sampling. These designs differ in terms of the quality of parameter estimates [@fig:Box6.2a, @fig:Box6.2b].
 
 **Probability sampling**: In the probability sampling scheme, every unit from the sampling frame has a non-zero probability of selection. It, therefore, leads to unbiased estimates of the mean and variance for the variable of interest. Therefore, any method aimed at generalizing results drawn by a sample to the whole population of interest must be based on probability sampling.
 
@@ -785,18 +787,18 @@ Although simple random sampling is the most basic technique for sample selection
 
 **Adaptive sampling**: In various studies, numerous sampling designs are combined under an adaptive sampling framework. In this technique, we start with an initial probabilistic sample of units and add more units in some pre-defined neighborhood or pre-defined condition to this sample [@thompson&saber1994, @williams2002]. This process continues until no sampled units satisfy the specified condition. Adaptive sampling offers biologists a way to augment the probability sample with samples from other units without losing the benefits of the original probabilistic design. Rules for the selection of additional samples are established based on some characteristic of the variable of interest (e.g., presence/ absence, age, sex, and height).
 
-**Case study**: Scientists are worried that ongoing human-induced landscape changes have threatened a grouse population in eastern Wyoming, USA. They decided to conduct a study with two main objectives. They primarily want to understand the impact of this dynamic landscape on the survival of grouse and on lek numbers. The study will be done in Carbon County for a period of 3 years during which they plan to capture 150 grouse in total (both male and female; Fig 5a). For carrying out this study, they divided the study area into 25 equal-sized grids (Fig. 5b). To estimate the survival of grouse, we need to capture individuals and track them for the required time period or till they are alive, whichever comes first. We need to devise a sampling mechanism to select grids from where these grouse can be captured.
+**Case study**: Scientists are worried that ongoing human-induced landscape changes have threatened a grouse population in eastern Wyoming, USA. They decided to conduct a study with two main objectives. They primarily want to understand the impact of this dynamic landscape on the survival of grouse and on lek numbers. The study will be done in Carbon County for a period of 3 years during which they plan to capture 150 grouse in total (both male and female; @fig:Fig6.2). For carrying out this study, they divided the study area into 25 equal-sized grids [@fig:Fig6.2]. To estimate the survival of grouse, we need to capture individuals and track them for the required time period or till they are alive, whichever comes first. We need to devise a sampling mechanism to select grids from where these grouse can be captured.
 
 ![a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.](images/Fig6.2.png){#fig:Fig6.2}
 
 
-In this case study, we will show you how researchers can sample grids using different types of probabilistic sampling schemes. Under random sampling, each of the grids will have an equal probability of getting sampled (Fig. 6a). In a systematic sampling framework, researchers can pick grids at regular intervals. So let's say, they decided to select every 5th grid starting with the 3rd grid. So, 3, 8, 13, 18, and 23 will be their plots from which the grouse will be then captured (Fig. 6b).
+In this case study, we will show you how researchers can sample grids using different types of probabilistic sampling schemes. Under random sampling, each of the grids will have an equal probability of getting sampled [@fig:Fig6.3]. In a systematic sampling framework, researchers can pick grids at regular intervals. So let's say, they decided to select every 5th grid starting with the 3rd grid. So, 3, 8, 13, 18, and 23 will be their plots from which the grouse will be then captured [@fig:Fig6.3].
 
-Suppose researchers identified three different dominant land cover types (grassland, wetland, and forest), so the random selection of grids can follow a stratified framework. Under this framework, researchers will divide the whole study area into these different strata and then randomly select grids from each of these strata to capture grouse (Fig. 6c).
+Suppose researchers identified three different dominant land cover types (grassland, wetland, and forest), so the random selection of grids can follow a stratified framework. Under this framework, researchers will divide the whole study area into these different strata and then randomly select grids from each of these strata to capture grouse [@fig:Fig6.3 c].
 
-Lek sites are known to be spatially close to each other. So, we would expect that if a lek is inhabiting one primary sample plot (grid), there are other leks in the neighborhood. So here researchers can use cluster sampling to calculate lek numbers. Under single-stage cluster sampling, they would start by randomly selecting primary sample plots across the study area, then within those primary plots, conduct surveys to calculate all lek numbers within the cluster of all four secondary plots (Fig. 6d). In our example, grids can act as primary plots. In each primary sample plot, there are 4 secondary sample plots (numbered 1 to 4 in some order), so under two-stage cluster sampling, we will randomly select any 2 from these 4 secondary sample plots (Fig. 6e). We will then conduct surveys to calculate lek numbers in 2 of these secondary sample plots.
+Lek sites are known to be spatially close to each other. So, we would expect that if a lek is inhabiting one primary sample plot (grid), there are other leks in the neighborhood. So here researchers can use cluster sampling to calculate lek numbers. Under single-stage cluster sampling, they would start by randomly selecting primary sample plots across the study area, then within those primary plots, conduct surveys to calculate all lek numbers within the cluster of all four secondary plots [@fig:Fig6.3 d]. In our example, grids can act as primary plots. In each primary sample plot, there are 4 secondary sample plots (numbered 1 to 4 in some order), so under two-stage cluster sampling, we will randomly select any 2 from these 4 secondary sample plots [@fig:Fig6.3 e]. We will then conduct surveys to calculate lek numbers in 2 of these secondary sample plots.
 
-Under adaptive cluster sampling, we will start with the grids which have the highest number of leks and then will sample the next grids with a similar number of grouse (Fig. 6f). See Box 3 for R codes for each of these sampling designs.
+Under adaptive cluster sampling, we will start with the grids which have the highest number of leks and then will sample the next grids with a similar number of grouse [@fig:Fig6.3 f]. See @fig:Fig6.4 for R codes for each of these sampling designs.
 
 ![Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.](images/Fig6.3.png){#fig:Fig6.3}
 
@@ -962,7 +964,7 @@ Having an established, professional social media presence on platforms such as T
 
 <!--Reference this figure in text like this (Figure @fig:Fig6.3).-->
 
-![Box 6.3](images/Fig6.4.png)
+![Box 6.3](images/Fig6.4.png){fig:fig6.4}
 
 <!--Reference this figure in text like this (Figure @fig:Fig6.4).-->
 
