@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/5c5c96c4774917abfeac528c4f194e5032beae26/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/5c5c96c4774917abfeac528c4f194e5032beae26/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/5c5c96c4774917abfeac528c4f194e5032beae26/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/5c5c96c4774917abfeac528c4f194e5032beae26/))
+([permalink](https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/))
 was automatically generated
-from [DrMattG/TechBk1@5c5c96c](https://github.com/DrMattG/TechBk1/tree/5c5c96c4774917abfeac528c4f194e5032beae26)
+from [DrMattG/TechBk1@50dba25](https://github.com/DrMattG/TechBk1/tree/50dba2540d57fa7fd30b8057d4f57f082e22a9e3)
 on June 30, 2023.
 </em></small>
 
@@ -683,7 +683,7 @@ effect on vireo body mass.
 
 ### Box 5.1 {#Rcode}
 
-![Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality.](images/Rcode.png) {#fig:Rcode}
+![Example R-code showing the effects of controlling variation through restricting sampling and blocking. In this example, we wish to assess the effects of insecticides on the body mass of red-eyed vireos (Vireo olivaceus). Study plots are distributed across 8 different forest patches which vary in habitat quality.](images/Rcode.png) 
 
 Blocking is not just valuable for experimental studies, but should be
 carefully considered when designing observational studies as well.
@@ -736,7 +736,7 @@ later.
 
 ### Box 5.2 {#Rcode2}
 
-![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png) {#fig:Rcode2}
+![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png) 
 
 
 
@@ -745,15 +745,17 @@ later.
 <!--Add references using [@doi:]
 If no doi then add to the manual-references.json file -->
 
-The ecological question often revolves around measuring relevant biological variables (survival, density, etc.) on items (like populations, species, subspecies, etc.) of interest in the system under study. In these questions, researchers conduct studies to obtain accurate estimates of characteristics that are important for management and conservation decisions. A vast amount of literature on the subject of **sampling or finite population sampling** (Cochran 1963) exists to help researchers in planning these studies.
+The ecological question often revolves around measuring relevant biological variables (survival, density, etc.) on items (like populations, species, subspecies, etc.) of interest in the system under study. In these questions, researchers conduct studies to obtain accurate estimates of characteristics that are important for management and conservation decisions. A vast amount of literature on the subject of **sampling or finite population sampling** (@cochran1963) exists to help researchers in planning these studies.
 
 The set of all possible individuals from which processes and patterns are to be deduced is called the **target population**. Rarely in any ecological studies, a census of the population is possible. Even in the case of rare and critically endangered species (less in number) or the case of immobile organisms like plants, collecting data from the whole population can be impossible. Thus, in most cases, researchers study a **subset of the population (sample)** and use collected information to draw inferences about the target population. The sample therefore can be described as a group of individuals who participate in research and represent the whole population. In more scientific terms, a sample is a subset of a population randomly selected based on some probabilistic design. In ecological studies, we often hear the term **sampling frame (or study area)**. To efficiently design these studies, it is necessary to understand what this term means. It is a finite set of all individuals that could be measured, and we can use different sampling schemes to obtain items from this frame. The sampling frame usually coincides with the target population, but reasons like accessibility, logistics, budget, etc. can make it differ otherwise. From this sampling frame, we draw a subset or sample of individuals, the **sampling units**, and the items to be measured for different biological variables. Sampling units should be distinct and easy to define (Box 1, Fig. 1). Target population does not always mean the number of animals. It can also be described in terms of geographic area, in which case, the sampling unit would be grids or township or county depending on the research question.
 
 Sampling is a critical part of both descriptive and experimental studies. All field studies require appropriate sampling designs to reduce variation among observations in the study. The choice of sampling method will depend on the objectives of the study, the distribution, and characteristics of the population being sampled among many other factors.
 
-![box1](https://user-images.githubusercontent.com/18090572/199079676-1affc4d3-21fe-4b85-b68c-d3c224f05887.PNG) ![Fig1](https://user-images.githubusercontent.com/18090572/199079818-9a89a16a-3442-4ac4-8778-7273c1296228.png)
 
-**Fig. 1** A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.
+![Box 6.1](images/Box6.1.png) 
+
+![A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.](images/Fig6.1.png)
+
 
 ### Probability and non-probability sampling methods
 
@@ -765,9 +767,9 @@ For a sample to correctly represent a population, we need to properly identify t
 
 There are pros and cons for each of these sampling designs. Probability sampling helps in reducing sample bias and therefore provides an accurate representation of the population. Non-probability sampling is useful when we still need some preliminary data within time and budget constraints.
 
-![box2a](https://user-images.githubusercontent.com/18090572/202543160-148904d0-f3cc-4a45-a0e3-ac71ec5bbbe6.PNG)
+![Box6.2a](images/Box6.2a.png)
 
-![box2acont](https://user-images.githubusercontent.com/18090572/202543180-bf7a2e56-e8b4-401f-9281-6147ac4f399b.PNG)
+![Box6.2b](images/Box6.2b.png)
 
 ### Sampling designs under the probability sampling method
 
@@ -781,13 +783,12 @@ Although simple random sampling is the most basic technique for sample selection
 
 **Cluster**: A probabilistic sampling scheme in which each sampling unit is a cluster of items such as the group of animals. Cluster sampling is generally used in cases when there are predefined groups within the population. These groups can be based on demographics, habitats, geography, etc. The sampling process starts by dividing the population into small groups known as clusters followed by random selection of these clusters to create a sample. This approach has wide applications in wildlife study as many birds and mammals occur in groups during or all parts of the year. Cluster sampling is useful when the cost or time to travel from one sample unit to the next is too high. Cluster sampling can also be performed in stages. Single-stage cluster sampling happens when all the elements of the chosen clusters are included in the sample. Two-stage cluster sampling is when in contrast to single-stage cluster sampling only some units are observed. The formal procedure of cluster sampling follows a few steps: 1) specify appropriate clusters and make a list of all clusters, 2) draw a simple random sample of clusters, and 3) measure all elements of interest in each selected cluster.
 
-**Adaptive sampling**: In various studies, numerous sampling designs are combined under an adaptive sampling framework. In this technique, we start with an initial probabilistic sample of units and add more units in some pre-defined neighborhood or pre-defined condition to this sample (Thompson and Seber 1996, Williams et al. 2002). This process continues until no sampled units satisfy the specified condition. Adaptive sampling offers biologists a way to augment the probability sample with samples from other units without losing the benefits of the original probabilistic design. Rules for the selection of additional samples are established based on some characteristic of the variable of interest (e.g., presence/ absence, age, sex, and height).
+**Adaptive sampling**: In various studies, numerous sampling designs are combined under an adaptive sampling framework. In this technique, we start with an initial probabilistic sample of units and add more units in some pre-defined neighborhood or pre-defined condition to this sample [@thompson&saber1994, @williams2002]. This process continues until no sampled units satisfy the specified condition. Adaptive sampling offers biologists a way to augment the probability sample with samples from other units without losing the benefits of the original probabilistic design. Rules for the selection of additional samples are established based on some characteristic of the variable of interest (e.g., presence/ absence, age, sex, and height).
 
 **Case study**: Scientists are worried that ongoing human-induced landscape changes have threatened a grouse population in eastern Wyoming, USA. They decided to conduct a study with two main objectives. They primarily want to understand the impact of this dynamic landscape on the survival of grouse and on lek numbers. The study will be done in Carbon County for a period of 3 years during which they plan to capture 150 grouse in total (both male and female; Fig 5a). For carrying out this study, they divided the study area into 25 equal-sized grids (Fig. 5b). To estimate the survival of grouse, we need to capture individuals and track them for the required time period or till they are alive, whichever comes first. We need to devise a sampling mechanism to select grids from where these grouse can be captured.
 
-![Fig5ab](https://user-images.githubusercontent.com/18090572/199080003-31925669-0d74-4497-a39f-4303b51b29ed.PNG)
+![a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.](images/Fig6.2.png)
 
-**Fig. 5** a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.
 
 In this case study, we will show you how researchers can sample grids using different types of probabilistic sampling schemes. Under random sampling, each of the grids will have an equal probability of getting sampled (Fig. 6a). In a systematic sampling framework, researchers can pick grids at regular intervals. So let's say, they decided to select every 5th grid starting with the 3rd grid. So, 3, 8, 13, 18, and 23 will be their plots from which the grouse will be then captured (Fig. 6b).
 
@@ -797,34 +798,23 @@ Lek sites are known to be spatially close to each other. So, we would expect tha
 
 Under adaptive cluster sampling, we will start with the grids which have the highest number of leks and then will sample the next grids with a similar number of grouse (Fig. 6f). See Box 3 for R codes for each of these sampling designs.
 
-![all](https://user-images.githubusercontent.com/18090572/199080044-a08b15a7-e2d8-4034-8cf2-77919c05e49d.PNG)
+![Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.](images/Fig6.3.png)
 
-**Fig. 6** Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.
 
-![codes1](https://user-images.githubusercontent.com/18090572/199080135-99771e65-1295-4db1-9d0f-f220138de659.PNG)
+![Box 6.3](images/Fig6.4.png)
 
 ### Sampling methodology
 
 In wildlife studies, there are a few commonly used sampling methodologies.
 
-**Plots**: Plots are widely used to study habitat characteristics, vegetation characteristics, counting animal numbers, etc. Plots' shape can vary from circular to square and represents a geographically defined target population. Wildlife tends to be distributed nonrandomly across the landscape in correspondence to the distribution of their habitat. Their distributions are further impacted by intraspecific and interspecific interactions. Given that distributions and abundance vary, plots should vary in shape and size depending on the studied species. Numerous factors influence plot size, including the biology of the species, their spatial distribution, study objectives, logistical considerations, and cost constraints. For example, larger species with large home ranges require larger plots to include adequate numbers. A 3,500-ha plot might include only 10% of the home range of a grizzly bear (*Ursus arctos horribilis*), the same area could include the entire home ranges of multiple white-footed mice (*Peromyscus leucopus*). Krebs (1999) listed three main approaches to determining optimal plot shape and size for a study: 1) plot size should have the highest precision for a specific study area, 3) plot size which is most accurate and efficient to answer the question of interest, and 3) plot size which is logistically easy to construct and use.
+**Plots**: Plots are widely used to study habitat characteristics, vegetation characteristics, counting animal numbers, etc. Plots' shape can vary from circular to square and represents a geographically defined target population. Wildlife tends to be distributed nonrandomly across the landscape in correspondence to the distribution of their habitat. Their distributions are further impacted by intraspecific and interspecific interactions. Given that distributions and abundance vary, plots should vary in shape and size depending on the studied species. Numerous factors influence plot size, including the biology of the species, their spatial distribution, study objectives, logistical considerations, and cost constraints. For example, larger species with large home ranges require larger plots to include adequate numbers. A 3,500-ha plot might include only 10% of the home range of a grizzly bear (*Ursus arctos horribilis*), the same area could include the entire home ranges of multiple white-footed mice (*Peromyscus leucopus*). @krebs1999 listed three main approaches to determining optimal plot shape and size for a study: 1) plot size should have the highest precision for a specific study area, 3) plot size which is most accurate and efficient to answer the question of interest, and 3) plot size which is logistically easy to construct and use.
 
 **Points**: In point sampling, a set of points is established throughout the population, and measurements are taken from each point. A common example is a point-count survey for birds where the distance to each heard or seen bird species of interest is measured from a particular point. Selection of sample points can follow any sampling design, as long as points are spaced apart enough that overlapping of the population between points is a bare minimum.
 
 **Transects**: In line transects a line or series of lines is randomly or systematically located in the study area. Objects are recorded on either side of the line according to some rule of inclusion. The observer traverses each line, recording the perpendicular distance from the line to each detected animal. These distances are used to estimate the effective width of the area sampled by the transect. Transects can be established using any sampling design as long as each of them is treated as an independent observation and are non-overlapping.
 
 
-### References
 
-Cochran, W. G. 1963. Sampling Techniques, 2nd Ed., New York: John Wiley and Sons, Inc.
-
-Krebs, C. J. 1999. Ecological methodology. Second edition. Benjamin Cummins, Menlo Park, California, USA.
-
-Thompson, S. K., and G. A. F. Seber. 1994. Detectability in conventional and adaptive sampling. Biometrics 50:713-724
-
-Williams, B. K., J. D. Nichols, and M. J. Conroy. 2002. Analysis and management of animal populations. Academic, San Diego, California, USA
-
-Zar, J. H. 1999. Biostatistical analysis. 4th edition. Prentice/ Hall, Upper Saddle River, New Jersey.
 
 
 ## The Publication and Peer Review Process 
@@ -955,6 +945,26 @@ Having an established, professional social media presence on platforms such as T
 ![Example R-code for controlling extraneous variation during statistical analyses. In this example, age-related differences in late-summer of survival of mourning doves (Zenaida macroura) are of interest; however, body size (as measured by wing length) and food abundance also affect survival.](images/Rcode2.png){#fig:Rcode2}
 
 <!--Reference this figure in text like this (Figure @fig:Rcode2).-->
+
+![Box 6.1](images/Box6.1.png){#fig:Box6.1}
+
+<!--Reference this figure in text like this (Figure @fig:Box6.1).-->
+
+![A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.](images/Fig6.1.png){#fig:Fig6.1}
+
+<!--Reference this figure in text like this (Figure @fig:Fig6.1).-->
+
+![a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.](images/Fig6.2.png){#fig:Fig6.2}
+
+<!--Reference this figure in text like this (Figure @fig:Fig6.2).-->
+
+![Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.](images/Fig6.3.png){#fig:Fig6.3}
+
+<!--Reference this figure in text like this (Figure @fig:Fig6.3).-->
+
+![Box 6.3](images/Fig6.4.png)
+
+<!--Reference this figure in text like this (Figure @fig:Fig6.4).-->
 
 ## Tables
 

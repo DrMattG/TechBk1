@@ -1,5 +1,4 @@
 accessbility
-acont
 Acyclic
 Annu
 APCs
@@ -7,8 +6,6 @@ arctos
 BACI
 biogeographical
 Biogeography
-Biometrics
-Biostatistical
 Bonasa
 Bornmann
 Breslin
@@ -25,11 +22,8 @@ CMAJ
 coauthorship
 colchicus
 Colinus
-Conroy
 controllability
 covariate
-Cummins
-Detectability
 DrMattG
 Dunikowski
 eb
@@ -80,7 +74,6 @@ Liang
 LinkedIn
 Lubek
 macroura
-Menlo
 Multiauthored
 nater
 Neilson
@@ -128,7 +121,6 @@ reproducibility
 Resh
 SCImago
 Sciurus
-Seber
 Setophaga
 Shewan
 Siegel
@@ -160,5 +152,4 @@ Warnell
 wblewis
 wildife
 Woollard
-Zar
 Zenaida
