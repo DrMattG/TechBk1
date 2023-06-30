@@ -5,7 +5,7 @@ keywords:
 - publishing
 - open science
 lang: en-US
-date-meta: '2023-06-28'
+date-meta: '2023-06-30'
 author-meta:
 - James Martin
 - Matthew J. Grainger
@@ -24,8 +24,8 @@ header-includes: |-
   <meta name="citation_title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="og:title" content="Chapter 1: Management, Research and Experimental Design" />
   <meta property="twitter:title" content="Chapter 1: Management, Research and Experimental Design" />
-  <meta name="dc.date" content="2023-06-28" />
-  <meta name="citation_publication_date" content="2023-06-28" />
+  <meta name="dc.date" content="2023-06-30" />
+  <meta name="citation_publication_date" content="2023-06-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/e1993deebe3e6190a79bf7880dbda900686ebe99/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e1993deebe3e6190a79bf7880dbda900686ebe99/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/e1993deebe3e6190a79bf7880dbda900686ebe99/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,10 +89,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/e1993deebe3e6190a79bf7880dbda900686ebe99/))
+([permalink](https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/))
 was automatically generated
-from [DrMattG/TechBk1@e1993de](https://github.com/DrMattG/TechBk1/tree/e1993deebe3e6190a79bf7880dbda900686ebe99)
-on June 28, 2023.
+from [DrMattG/TechBk1@6822a3a](https://github.com/DrMattG/TechBk1/tree/6822a3a146542908ccc7827291fb1d57be19bac0)
+on June 30, 2023.
 </em></small>
 
 ## Authors
@@ -781,7 +781,7 @@ Although simple random sampling is the most basic technique for sample selection
 
 **Cluster**: A probabilistic sampling scheme in which each sampling unit is a cluster of items such as the group of animals. Cluster sampling is generally used in cases when there are predefined groups within the population. These groups can be based on demographics, habitats, geography, etc. The sampling process starts by dividing the population into small groups known as clusters followed by random selection of these clusters to create a sample. This approach has wide applications in wildlife study as many birds and mammals occur in groups during or all parts of the year. Cluster sampling is useful when the cost or time to travel from one sample unit to the next is too high. Cluster sampling can also be performed in stages. Single-stage cluster sampling happens when all the elements of the chosen clusters are included in the sample. Two-stage cluster sampling is when in contrast to single-stage cluster sampling only some units are observed. The formal procedure of cluster sampling follows a few steps: 1) specify appropriate clusters and make a list of all clusters, 2) draw a simple random sample of clusters, and 3) measure all elements of interest in each selected cluster.
 
-**Adaptive sampling**: In various studies, numerous sampling designs are combined under an adaptive sampling framework. In this technique, we start with an initial probabilistic sample of units and add more units in some pre-defined neighborhood or pre-defined condition to this sample (Thompson and Seber 1996, Williams et al. 2002, Thompson 2003). This process continues until no sampled units satisfy the specified condition. Adaptive sampling offers biologists a way to augment the probability sample with samples from other units without losing the benefits of the original probabilistic design. Rules for the selection of additional samples are established based on some characteristic of the variable of interest (e.g., presence/ absence, age, sex, and height).
+**Adaptive sampling**: In various studies, numerous sampling designs are combined under an adaptive sampling framework. In this technique, we start with an initial probabilistic sample of units and add more units in some pre-defined neighborhood or pre-defined condition to this sample (Thompson and Seber 1996, Williams et al. 2002). This process continues until no sampled units satisfy the specified condition. Adaptive sampling offers biologists a way to augment the probability sample with samples from other units without losing the benefits of the original probabilistic design. Rules for the selection of additional samples are established based on some characteristic of the variable of interest (e.g., presence/ absence, age, sex, and height).
 
 **Case study**: Scientists are worried that ongoing human-induced landscape changes have threatened a grouse population in eastern Wyoming, USA. They decided to conduct a study with two main objectives. They primarily want to understand the impact of this dynamic landscape on the survival of grouse and on lek numbers. The study will be done in Carbon County for a period of 3 years during which they plan to capture 150 grouse in total (both male and female; Fig 5a). For carrying out this study, they divided the study area into 25 equal-sized grids (Fig. 5b). To estimate the survival of grouse, we need to capture individuals and track them for the required time period or till they are alive, whichever comes first. We need to devise a sampling mechanism to select grids from where these grouse can be captured.
 
@@ -819,8 +819,6 @@ In wildlife studies, there are a few commonly used sampling methodologies.
 Cochran, W. G. 1963. Sampling Techniques, 2nd Ed., New York: John Wiley and Sons, Inc.
 
 Krebs, C. J. 1999. Ecological methodology. Second edition. Benjamin Cummins, Menlo Park, California, USA.
-
-Thompson, S. K. 2003. Editorial: Special issue on adaptive sampling. Environmental and Ecological Statistics 10:507
 
 Thompson, S. K., and G. A. F. Seber. 1994. Detectability in conventional and adaptive sampling. Biometrics 50:713-724
 
