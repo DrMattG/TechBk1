@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/50dba2540d57fa7fd30b8057d4f57f082e22a9e3/))
+([permalink](https://DrMattG.github.io/TechBk1/v/b98444018f5468ff263609c5c79b15ca2b0f95b2/))
 was automatically generated
-from [DrMattG/TechBk1@50dba25](https://github.com/DrMattG/TechBk1/tree/50dba2540d57fa7fd30b8057d4f57f082e22a9e3)
+from [DrMattG/TechBk1@b984440](https://github.com/DrMattG/TechBk1/tree/b98444018f5468ff263609c5c79b15ca2b0f95b2)
 on June 30, 2023.
 </em></small>
 
@@ -752,9 +752,9 @@ The set of all possible individuals from which processes and patterns are to be 
 Sampling is a critical part of both descriptive and experimental studies. All field studies require appropriate sampling designs to reduce variation among observations in the study. The choice of sampling method will depend on the objectives of the study, the distribution, and characteristics of the population being sampled among many other factors.
 
 
-![Box 6.1](images/Box6.1.png) 
+![Box 6.1](images/Box6.1.png) {#fig:Box6.1} 
 
-![A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.](images/Fig6.1.png)
+![A target population of greater sage-grouse (*Centrocercus urophasianus*, hereafter grouse) in one county in Wyoming, USA. For reasons like accessibility and permission, the whole county area could not be used for conducting a study. So, the sampling frame represents the area from which sampling units could be collected.](images/Fig6.1.png){#fig:Fig6.1}
 
 
 ### Probability and non-probability sampling methods
@@ -767,9 +767,9 @@ For a sample to correctly represent a population, we need to properly identify t
 
 There are pros and cons for each of these sampling designs. Probability sampling helps in reducing sample bias and therefore provides an accurate representation of the population. Non-probability sampling is useful when we still need some preliminary data within time and budget constraints.
 
-![Box6.2a](images/Box6.2a.png)
+![Box6.2a](images/Box6.2a.png){#fig:Box6.2a}
 
-![Box6.2b](images/Box6.2b.png)
+![Box6.2b](images/Box6.2b.png){#fig:Box6.2b}
 
 ### Sampling designs under the probability sampling method
 
@@ -787,7 +787,7 @@ Although simple random sampling is the most basic technique for sample selection
 
 **Case study**: Scientists are worried that ongoing human-induced landscape changes have threatened a grouse population in eastern Wyoming, USA. They decided to conduct a study with two main objectives. They primarily want to understand the impact of this dynamic landscape on the survival of grouse and on lek numbers. The study will be done in Carbon County for a period of 3 years during which they plan to capture 150 grouse in total (both male and female; Fig 5a). For carrying out this study, they divided the study area into 25 equal-sized grids (Fig. 5b). To estimate the survival of grouse, we need to capture individuals and track them for the required time period or till they are alive, whichever comes first. We need to devise a sampling mechanism to select grids from where these grouse can be captured.
 
-![a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.](images/Fig6.2.png)
+![a) Carbon County in Wyoming, USA for conducting a 3-year study on a grouse population in the sampling frame, b) Study area divided into 25 equal-sized grids for carrying out the study.](images/Fig6.2.png){#fig:Fig6.2}
 
 
 In this case study, we will show you how researchers can sample grids using different types of probabilistic sampling schemes. Under random sampling, each of the grids will have an equal probability of getting sampled (Fig. 6a). In a systematic sampling framework, researchers can pick grids at regular intervals. So let's say, they decided to select every 5th grid starting with the 3rd grid. So, 3, 8, 13, 18, and 23 will be their plots from which the grouse will be then captured (Fig. 6b).
@@ -798,10 +798,10 @@ Lek sites are known to be spatially close to each other. So, we would expect tha
 
 Under adaptive cluster sampling, we will start with the grids which have the highest number of leks and then will sample the next grids with a similar number of grouse (Fig. 6f). See Box 3 for R codes for each of these sampling designs.
 
-![Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.](images/Fig6.3.png)
+![Examples of sampling design a) simple random, b) systematic, c) stratify, d) single-stage, e) two-stage, and f) adaptive (numbers in brackets shows the number of leks in each grid) for selecting grids from an equal-sized gridded system in Carbon County, USA for studying grouse population.](images/Fig6.3.png){#fig:Fig6.3}
 
 
-![Box 6.3](images/Fig6.4.png)
+![Box 6.3](images/Fig6.4.png){#fig:Fig6.4}
 
 ### Sampling methodology
 
