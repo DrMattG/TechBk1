@@ -35,7 +35,7 @@ Dunikowski
 eb
 EF
 elevational
-Elsevier
+ELSEVIER
 Elsevier’s
 envrionmental
 Erlend
@@ -66,6 +66,7 @@ indabilty
 Informetr
 interspecific
 intraspecific
+IWMC
 JAMA
 Kassim
 Krauss
@@ -81,7 +82,7 @@ Lubek
 macroura
 Menlo
 Multiauthored
-nater
+Nater
 Neilson
 neophobia
 Nephrol
@@ -99,6 +100,7 @@ ollective
 openworkflow
 Pathol
 Paulus
+pdfs
 Peromyscus
 Phasianus
 Pimlott

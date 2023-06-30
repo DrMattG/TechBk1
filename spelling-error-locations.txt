@@ -44,6 +44,9 @@ content/05.Experimental_Design.md:82:virginianus
 content/05.Experimental_Design.md:100:hemionus
 content/05.Experimental_Design.md:100:Odocoileus
 content/05.Experimental_Design.md:100:radiocollar
+content/05.Experimental_Design.md:119:pdfs
+content/05.Experimental_Design.md:119:steidl
+content/05.Experimental_Design.md:119:Steidl
 content/05.Experimental_Design.md:126:radiotransmitters
 content/05.Experimental_Design.md:141:pseudoreplication
 content/05.Experimental_Design.md:142:pseudoreplication

@@ -65,9 +65,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/TechBk1/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/TechBk1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/TechBk1/v/79d4151b7cc3b2aefd24af10e46993687bd43ab8/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/TechBk1/v/79d4151b7cc3b2aefd24af10e46993687bd43ab8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/TechBk1/v/79d4151b7cc3b2aefd24af10e46993687bd43ab8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -89,9 +89,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/TechBk1/v/6822a3a146542908ccc7827291fb1d57be19bac0/))
+([permalink](https://DrMattG.github.io/TechBk1/v/79d4151b7cc3b2aefd24af10e46993687bd43ab8/))
 was automatically generated
-from [DrMattG/TechBk1@6822a3a](https://github.com/DrMattG/TechBk1/tree/6822a3a146542908ccc7827291fb1d57be19bac0)
+from [DrMattG/TechBk1@79d4151](https://github.com/DrMattG/TechBk1/tree/79d4151b7cc3b2aefd24af10e46993687bd43ab8)
 on June 30, 2023.
 </em></small>
 
@@ -436,7 +436,7 @@ estimated by performing a prospective power analysis during the design
 phase. Power analyses estimate can estimate the minimum required sample
 size for a study based on two parameters: 1) the desired or expected
 magnitude of the difference between treatment groups, and 2) the
-expected variance between units within treatment group. See @steidl2001 for a detailed description of power analyses. The
+expected variance between units within treatment group. See @url:https://ag.arizona.edu/~steidl/files/pdfs/Steidl%202001%20IWMC.pdf for a detailed description of power analyses. The
 question, then, is how to estimate the expected variance and difference
 between treatment groups before collecting any data. Researchers can use
 estimates derived from published literature in a similar study system
